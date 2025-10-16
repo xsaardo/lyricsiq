@@ -1,0 +1,457 @@
+{
+  "id": 189637,
+  "title": "But It’s Better If You Do",
+  "artist": "Panic! at the Disco",
+  "difficulty": "hard",
+  "lyrics": "[Verse 1]\nNow I'm of _____0_____ age\nTo be _____1_____ you in a _____2_____\n_____3_____ _____4_____ _____5_____ a _____6_____ _____7_____\nMay even ask my name\nAs she sheds her skin on stage\nI'm _____8_____ and _____9_____ to a dance song on the _____10_____ PA\nThe strip joint _____11_____ sits two away\n_____12_____ _____13_____ _____14_____ sips of his _____15_____\nPeach and lime _____16_____...\n\n[Chorus]\nAnd isn't this _____17_____ where you'd like me?\nI'm _____18_____ where you'd like me, you know\n_____19_____ for love in a lap dance\nAnd _____20_____ in _____21_____?\nOh, isn't this _____22_____ where you'd like me?\nI'm _____23_____ where you'd like me, you know\n_____24_____ for love in a lap dance\nAnd _____25_____ in _____26_____?\n\n[Verse 2]\nOh, but I'm _____27_____ that I\nWell, I may have faked it\nAnd I _____28_____ be _____29_____ dead\n_____30_____, _____31_____, _____32_____ in this place\nWell, I'm _____33_____ that I\nWell, _____34_____ right, well, I may have faked it\nAnd I _____35_____ be _____36_____ dead in this place\n\n\n\n\n[Chorus]\nAnd isn't this _____37_____ where you'd like me?\nI'm _____38_____ where you'd like me, you know\n_____39_____ for love in a lap dance\nAnd _____40_____ in _____41_____?\nOh, isn't this _____42_____ where you'd like me?\nI'm _____43_____ where you'd like me, you know\n_____44_____ for love in a lap dance\nAnd _____45_____ in _____46_____?\n\n[Bridge]\nWell, I'm _____47_____ that I\nWell, I may have faked it\nAnd I _____48_____ be _____49_____ dead\n_____50_____, _____51_____, _____52_____ in this place\nWell, I'm _____53_____ that I\nWell, _____54_____ right, well, I may have faked it\nAnd I _____55_____ be _____56_____ dead in this place\n\n[Chorus]\nAnd isn't this _____57_____ where you'd like me?\nI'm _____58_____ where you'd like me, you know\n_____59_____ for love in a lap dance\nAnd _____60_____ in _____61_____?\nOh, isn't this _____62_____ where you'd like me?\nI'm _____63_____ where you'd like me, you know\n_____64_____ for love in a lap dance\nAnd _____65_____ in _____66_____?\n_____67_____ for love and _____68_____ in _____69_____\n_____70_____ for love and _____71_____ in _____72_____, oh",
+  "blanks": [
+    {
+      "id": 0,
+      "answer": "consenting",
+      "lineIndex": 1,
+      "position": 11
+    },
+    {
+      "id": 1,
+      "answer": "forgetting",
+      "lineIndex": 2,
+      "position": 6
+    },
+    {
+      "id": 2,
+      "answer": "cabaret",
+      "lineIndex": 2,
+      "position": 26
+    },
+    {
+      "id": 3,
+      "answer": "Somewhere",
+      "lineIndex": 3,
+      "position": 0
+    },
+    {
+      "id": 4,
+      "answer": "downtown",
+      "lineIndex": 3,
+      "position": 10
+    },
+    {
+      "id": 5,
+      "answer": "where",
+      "lineIndex": 3,
+      "position": 19
+    },
+    {
+      "id": 6,
+      "answer": "burlesque",
+      "lineIndex": 3,
+      "position": 27
+    },
+    {
+      "id": 7,
+      "answer": "queen",
+      "lineIndex": 3,
+      "position": 37
+    },
+    {
+      "id": 8,
+      "answer": "seated",
+      "lineIndex": 6,
+      "position": 4
+    },
+    {
+      "id": 9,
+      "answer": "sweating",
+      "lineIndex": 6,
+      "position": 15
+    },
+    {
+      "id": 10,
+      "answer": "club's",
+      "lineIndex": 6,
+      "position": 47
+    },
+    {
+      "id": 11,
+      "answer": "veteran",
+      "lineIndex": 7,
+      "position": 16
+    },
+    {
+      "id": 12,
+      "answer": "Smirking",
+      "lineIndex": 8,
+      "position": 0
+    },
+    {
+      "id": 13,
+      "answer": "between",
+      "lineIndex": 8,
+      "position": 9
+    },
+    {
+      "id": 14,
+      "answer": "dignified",
+      "lineIndex": 8,
+      "position": 17
+    },
+    {
+      "id": 15,
+      "answer": "dignified",
+      "lineIndex": 8,
+      "position": 39
+    },
+    {
+      "id": 16,
+      "answer": "daiquiri",
+      "lineIndex": 9,
+      "position": 15
+    },
+    {
+      "id": 17,
+      "answer": "exactly",
+      "lineIndex": 12,
+      "position": 15
+    },
+    {
+      "id": 18,
+      "answer": "exactly",
+      "lineIndex": 13,
+      "position": 4
+    },
+    {
+      "id": 19,
+      "answer": "Praying",
+      "lineIndex": 14,
+      "position": 0
+    },
+    {
+      "id": 20,
+      "answer": "paying",
+      "lineIndex": 15,
+      "position": 4
+    },
+    {
+      "id": 21,
+      "answer": "naivety",
+      "lineIndex": 15,
+      "position": 14
+    },
+    {
+      "id": 22,
+      "answer": "exactly",
+      "lineIndex": 16,
+      "position": 15
+    },
+    {
+      "id": 23,
+      "answer": "exactly",
+      "lineIndex": 17,
+      "position": 4
+    },
+    {
+      "id": 24,
+      "answer": "Praying",
+      "lineIndex": 18,
+      "position": 0
+    },
+    {
+      "id": 25,
+      "answer": "paying",
+      "lineIndex": 19,
+      "position": 4
+    },
+    {
+      "id": 26,
+      "answer": "naivety",
+      "lineIndex": 19,
+      "position": 14
+    },
+    {
+      "id": 27,
+      "answer": "afraid",
+      "lineIndex": 22,
+      "position": 12
+    },
+    {
+      "id": 28,
+      "answer": "wouldn't",
+      "lineIndex": 24,
+      "position": 6
+    },
+    {
+      "id": 29,
+      "answer": "caught",
+      "lineIndex": 24,
+      "position": 18
+    },
+    {
+      "id": 30,
+      "answer": "D-dead",
+      "lineIndex": 25,
+      "position": 0
+    },
+    {
+      "id": 31,
+      "answer": "d-dead",
+      "lineIndex": 25,
+      "position": 8
+    },
+    {
+      "id": 32,
+      "answer": "d-dead",
+      "lineIndex": 25,
+      "position": 16
+    },
+    {
+      "id": 33,
+      "answer": "afraid",
+      "lineIndex": 26,
+      "position": 10
+    },
+    {
+      "id": 34,
+      "answer": "that's",
+      "lineIndex": 27,
+      "position": 6
+    },
+    {
+      "id": 35,
+      "answer": "wouldn't",
+      "lineIndex": 28,
+      "position": 6
+    },
+    {
+      "id": 36,
+      "answer": "caught",
+      "lineIndex": 28,
+      "position": 18
+    },
+    {
+      "id": 37,
+      "answer": "exactly",
+      "lineIndex": 34,
+      "position": 15
+    },
+    {
+      "id": 38,
+      "answer": "exactly",
+      "lineIndex": 35,
+      "position": 4
+    },
+    {
+      "id": 39,
+      "answer": "Praying",
+      "lineIndex": 36,
+      "position": 0
+    },
+    {
+      "id": 40,
+      "answer": "paying",
+      "lineIndex": 37,
+      "position": 4
+    },
+    {
+      "id": 41,
+      "answer": "naivety",
+      "lineIndex": 37,
+      "position": 14
+    },
+    {
+      "id": 42,
+      "answer": "exactly",
+      "lineIndex": 38,
+      "position": 15
+    },
+    {
+      "id": 43,
+      "answer": "exactly",
+      "lineIndex": 39,
+      "position": 4
+    },
+    {
+      "id": 44,
+      "answer": "Praying",
+      "lineIndex": 40,
+      "position": 0
+    },
+    {
+      "id": 45,
+      "answer": "paying",
+      "lineIndex": 41,
+      "position": 4
+    },
+    {
+      "id": 46,
+      "answer": "naivety",
+      "lineIndex": 41,
+      "position": 14
+    },
+    {
+      "id": 47,
+      "answer": "afraid",
+      "lineIndex": 44,
+      "position": 10
+    },
+    {
+      "id": 48,
+      "answer": "wouldn't",
+      "lineIndex": 46,
+      "position": 6
+    },
+    {
+      "id": 49,
+      "answer": "caught",
+      "lineIndex": 46,
+      "position": 18
+    },
+    {
+      "id": 50,
+      "answer": "D-dead",
+      "lineIndex": 47,
+      "position": 0
+    },
+    {
+      "id": 51,
+      "answer": "d-dead",
+      "lineIndex": 47,
+      "position": 8
+    },
+    {
+      "id": 52,
+      "answer": "d-dead",
+      "lineIndex": 47,
+      "position": 16
+    },
+    {
+      "id": 53,
+      "answer": "afraid",
+      "lineIndex": 48,
+      "position": 10
+    },
+    {
+      "id": 54,
+      "answer": "that's",
+      "lineIndex": 49,
+      "position": 6
+    },
+    {
+      "id": 55,
+      "answer": "wouldn't",
+      "lineIndex": 50,
+      "position": 6
+    },
+    {
+      "id": 56,
+      "answer": "caught",
+      "lineIndex": 50,
+      "position": 18
+    },
+    {
+      "id": 57,
+      "answer": "exactly",
+      "lineIndex": 53,
+      "position": 15
+    },
+    {
+      "id": 58,
+      "answer": "exactly",
+      "lineIndex": 54,
+      "position": 4
+    },
+    {
+      "id": 59,
+      "answer": "Praying",
+      "lineIndex": 55,
+      "position": 0
+    },
+    {
+      "id": 60,
+      "answer": "paying",
+      "lineIndex": 56,
+      "position": 4
+    },
+    {
+      "id": 61,
+      "answer": "naivety",
+      "lineIndex": 56,
+      "position": 14
+    },
+    {
+      "id": 62,
+      "answer": "exactly",
+      "lineIndex": 57,
+      "position": 15
+    },
+    {
+      "id": 63,
+      "answer": "exactly",
+      "lineIndex": 58,
+      "position": 4
+    },
+    {
+      "id": 64,
+      "answer": "Praying",
+      "lineIndex": 59,
+      "position": 0
+    },
+    {
+      "id": 65,
+      "answer": "paying",
+      "lineIndex": 60,
+      "position": 4
+    },
+    {
+      "id": 66,
+      "answer": "naivety",
+      "lineIndex": 60,
+      "position": 14
+    },
+    {
+      "id": 67,
+      "answer": "Praying",
+      "lineIndex": 61,
+      "position": 0
+    },
+    {
+      "id": 68,
+      "answer": "paying",
+      "lineIndex": 61,
+      "position": 21
+    },
+    {
+      "id": 69,
+      "answer": "naivety",
+      "lineIndex": 61,
+      "position": 31
+    },
+    {
+      "id": 70,
+      "answer": "Praying",
+      "lineIndex": 62,
+      "position": 0
+    },
+    {
+      "id": 71,
+      "answer": "paying",
+      "lineIndex": 62,
+      "position": 21
+    },
+    {
+      "id": 72,
+      "answer": "naivety",
+      "lineIndex": 62,
+      "position": 31
+    }
+  ],
+  "metadata": {
+    "originalFile": "/Users/cuongluong/Desktop/lyricsiq/src/data/lyrics/but-its-better-if-you-do.json",
+    "generatedAt": "2025-10-16T03:22:53.115Z",
+    "strategy": "important",
+    "totalBlanks": 73,
+    "imageUrl": "https://images.genius.com/4a3967a3a853c2d99ea78619bd1afdc6.1000x1000x1.png",
+    "thumbnailUrl": "https://images.genius.com/4a3967a3a853c2d99ea78619bd1afdc6.300x300x1.png",
+    "url": "https://genius.com/Panic-at-the-disco-but-its-better-if-you-do-lyrics",
+    "releaseDate": "May 16, 2006"
+  }
+}

@@ -16,7 +16,7 @@ function SongSelector({ onQuizSelect }) {
       setLoading(true)
 
       // Load the quiz index
-      const indexResponse = await fetch('/src/data/quizzes/index.json')
+      const indexResponse = await fetch('/data/quizzes/index.json')
       if (!indexResponse.ok) {
         throw new Error('Failed to load quiz index')
       }

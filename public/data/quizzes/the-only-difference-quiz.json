@@ -1,0 +1,451 @@
+{
+  "id": 180508,
+  "title": "The Only Difference Between Martyrdom and Suicide Is Press Coverage",
+  "artist": "Panic! at the Disco",
+  "difficulty": "hard",
+  "lyrics": "[Verse 1]\nSit _____0_____, I'm _____1_____ to need you to keep time\nCome on, just snap, snap, snap your _____2_____ for me\nGood, good, now _____3_____ _____4_____ some _____5_____\nCome on, just tap, tap, tap your toes to the beat\n\n[Pre-Chorus]\nAnd I _____6_____\nThis may call for a _____7_____ _____8_____, and, well\n_____9_____ you see?\nI'm the _____10_____, and this is just the _____11_____\n\n[Chorus]\n_____12_____ to _____13_____ it up if you _____14_____ to _____15_____\nOh, _____16_____ _____17_____ so _____18_____, but _____19_____ for _____20_____\nI aim to be\nYour eyes, _____21_____ boys, _____22_____ wives\nSwear to shake it up if you swear to _____23_____\nOh, we're still so young, but _____24_____ for _____25_____\nI aim to be\nYour eyes, _____26_____ boys, _____27_____ wives\n\n[Verse 2]\n_____28_____! _____29_____! No, wait, wait...\nDear _____30_____ _____31_____, I've an _____32_____ to make\nIt seems the _____33_____ these days are not who you think\nSo we'll pick back up on that on _____34_____ page\n\n\n\n\n[Pre-Chorus]\nAnd I _____35_____\nThis may call for a _____36_____ _____37_____, and, well\nDon't you see?\nI'm the _____38_____ and this is just the _____39_____\n\n[Chorus]\nSwear to shake it up if you swear to _____40_____\nOh, we're still so young, but _____41_____ for _____42_____\nI aim to be\nYour eyes, _____43_____ boys, _____44_____ wives\nSwear to shake it up if you swear to _____45_____\nOh, we're still so young, but _____46_____ for _____47_____\nI aim to be\nYour eyes, _____48_____ boys, _____49_____ wives\n\n[Breakdown]\nSwear to shake it up, you swear to _____50_____\nSwear to shake it up, you swear to _____51_____\nSwear to shake it up, you swear to _____52_____\nSwear to shake it up, swear to shake it up\n\n[Chorus]\nSwear to shake it up if you swear to _____53_____\nOh, we're still so young, but _____54_____ for _____55_____\nI aim to be\nYour eyes, _____56_____ boys, _____57_____ wives\nSwear to shake it up if you swear to _____58_____\nOh, we're still so young, but _____59_____ for _____60_____\nI aim to be your eyes\n\n\n\n\n[Outro]\n_____61_____, _____62_____, _____63_____\n_____64_____, _____65_____ (_____66_____)\n_____67_____, _____68_____, _____69_____\n_____70_____, _____71_____\n\n[Click here to read how Panic! at the Disco came up with the title \"The Only Difference Between Martyrdom and Suicide Is Press Coverage\"]",
+  "blanks": [
+    {
+      "id": 0,
+      "answer": "tight",
+      "lineIndex": 1,
+      "position": 4
+    },
+    {
+      "id": 1,
+      "answer": "going",
+      "lineIndex": 1,
+      "position": 15
+    },
+    {
+      "id": 2,
+      "answer": "fingers",
+      "lineIndex": 2,
+      "position": 36
+    },
+    {
+      "id": 3,
+      "answer": "we're",
+      "lineIndex": 3,
+      "position": 16
+    },
+    {
+      "id": 4,
+      "answer": "making",
+      "lineIndex": 3,
+      "position": 22
+    },
+    {
+      "id": 5,
+      "answer": "progress",
+      "lineIndex": 3,
+      "position": 34
+    },
+    {
+      "id": 6,
+      "answer": "believe",
+      "lineIndex": 7,
+      "position": 6
+    },
+    {
+      "id": 7,
+      "answer": "proper",
+      "lineIndex": 8,
+      "position": 20
+    },
+    {
+      "id": 8,
+      "answer": "introduction",
+      "lineIndex": 8,
+      "position": 27
+    },
+    {
+      "id": 9,
+      "answer": "Don't",
+      "lineIndex": 9,
+      "position": 0
+    },
+    {
+      "id": 10,
+      "answer": "narrator",
+      "lineIndex": 10,
+      "position": 8
+    },
+    {
+      "id": 11,
+      "answer": "prologue",
+      "lineIndex": 10,
+      "position": 39
+    },
+    {
+      "id": 12,
+      "answer": "Swear",
+      "lineIndex": 13,
+      "position": 0
+    },
+    {
+      "id": 13,
+      "answer": "shake",
+      "lineIndex": 13,
+      "position": 9
+    },
+    {
+      "id": 14,
+      "answer": "swear",
+      "lineIndex": 13,
+      "position": 28
+    },
+    {
+      "id": 15,
+      "answer": "listen",
+      "lineIndex": 13,
+      "position": 37
+    },
+    {
+      "id": 16,
+      "answer": "we're",
+      "lineIndex": 14,
+      "position": 4
+    },
+    {
+      "id": 17,
+      "answer": "still",
+      "lineIndex": 14,
+      "position": 10
+    },
+    {
+      "id": 18,
+      "answer": "young",
+      "lineIndex": 14,
+      "position": 19
+    },
+    {
+      "id": 19,
+      "answer": "desperate",
+      "lineIndex": 14,
+      "position": 30
+    },
+    {
+      "id": 20,
+      "answer": "attention",
+      "lineIndex": 14,
+      "position": 44
+    },
+    {
+      "id": 21,
+      "answer": "trophy",
+      "lineIndex": 16,
+      "position": 11
+    },
+    {
+      "id": 22,
+      "answer": "trophy",
+      "lineIndex": 16,
+      "position": 24
+    },
+    {
+      "id": 23,
+      "answer": "listen",
+      "lineIndex": 17,
+      "position": 37
+    },
+    {
+      "id": 24,
+      "answer": "desperate",
+      "lineIndex": 18,
+      "position": 30
+    },
+    {
+      "id": 25,
+      "answer": "attention",
+      "lineIndex": 18,
+      "position": 44
+    },
+    {
+      "id": 26,
+      "answer": "trophy",
+      "lineIndex": 20,
+      "position": 11
+    },
+    {
+      "id": 27,
+      "answer": "trophy",
+      "lineIndex": 20,
+      "position": 24
+    },
+    {
+      "id": 28,
+      "answer": "Applause",
+      "lineIndex": 23,
+      "position": 0
+    },
+    {
+      "id": 29,
+      "answer": "Applause",
+      "lineIndex": 23,
+      "position": 10
+    },
+    {
+      "id": 30,
+      "answer": "studio",
+      "lineIndex": 24,
+      "position": 5
+    },
+    {
+      "id": 31,
+      "answer": "audience",
+      "lineIndex": 24,
+      "position": 12
+    },
+    {
+      "id": 32,
+      "answer": "announcement",
+      "lineIndex": 24,
+      "position": 30
+    },
+    {
+      "id": 33,
+      "answer": "artists",
+      "lineIndex": 25,
+      "position": 13
+    },
+    {
+      "id": 34,
+      "answer": "another",
+      "lineIndex": 26,
+      "position": 33
+    },
+    {
+      "id": 35,
+      "answer": "believe",
+      "lineIndex": 32,
+      "position": 6
+    },
+    {
+      "id": 36,
+      "answer": "proper",
+      "lineIndex": 33,
+      "position": 20
+    },
+    {
+      "id": 37,
+      "answer": "introduction",
+      "lineIndex": 33,
+      "position": 27
+    },
+    {
+      "id": 38,
+      "answer": "narrator",
+      "lineIndex": 35,
+      "position": 8
+    },
+    {
+      "id": 39,
+      "answer": "prologue",
+      "lineIndex": 35,
+      "position": 38
+    },
+    {
+      "id": 40,
+      "answer": "listen",
+      "lineIndex": 38,
+      "position": 37
+    },
+    {
+      "id": 41,
+      "answer": "desperate",
+      "lineIndex": 39,
+      "position": 30
+    },
+    {
+      "id": 42,
+      "answer": "attention",
+      "lineIndex": 39,
+      "position": 44
+    },
+    {
+      "id": 43,
+      "answer": "trophy",
+      "lineIndex": 41,
+      "position": 11
+    },
+    {
+      "id": 44,
+      "answer": "trophy",
+      "lineIndex": 41,
+      "position": 24
+    },
+    {
+      "id": 45,
+      "answer": "listen",
+      "lineIndex": 42,
+      "position": 37
+    },
+    {
+      "id": 46,
+      "answer": "desperate",
+      "lineIndex": 43,
+      "position": 30
+    },
+    {
+      "id": 47,
+      "answer": "attention",
+      "lineIndex": 43,
+      "position": 44
+    },
+    {
+      "id": 48,
+      "answer": "trophy",
+      "lineIndex": 45,
+      "position": 11
+    },
+    {
+      "id": 49,
+      "answer": "trophy",
+      "lineIndex": 45,
+      "position": 24
+    },
+    {
+      "id": 50,
+      "answer": "listen",
+      "lineIndex": 48,
+      "position": 35
+    },
+    {
+      "id": 51,
+      "answer": "listen",
+      "lineIndex": 49,
+      "position": 35
+    },
+    {
+      "id": 52,
+      "answer": "listen",
+      "lineIndex": 50,
+      "position": 35
+    },
+    {
+      "id": 53,
+      "answer": "listen",
+      "lineIndex": 54,
+      "position": 37
+    },
+    {
+      "id": 54,
+      "answer": "desperate",
+      "lineIndex": 55,
+      "position": 30
+    },
+    {
+      "id": 55,
+      "answer": "attention",
+      "lineIndex": 55,
+      "position": 44
+    },
+    {
+      "id": 56,
+      "answer": "trophy",
+      "lineIndex": 57,
+      "position": 11
+    },
+    {
+      "id": 57,
+      "answer": "trophy",
+      "lineIndex": 57,
+      "position": 24
+    },
+    {
+      "id": 58,
+      "answer": "listen",
+      "lineIndex": 58,
+      "position": 37
+    },
+    {
+      "id": 59,
+      "answer": "desperate",
+      "lineIndex": 59,
+      "position": 30
+    },
+    {
+      "id": 60,
+      "answer": "attention",
+      "lineIndex": 59,
+      "position": 44
+    },
+    {
+      "id": 61,
+      "answer": "La-la-la",
+      "lineIndex": 66,
+      "position": 0
+    },
+    {
+      "id": 62,
+      "answer": "da-da-da-da-da",
+      "lineIndex": 66,
+      "position": 10
+    },
+    {
+      "id": 63,
+      "answer": "da-da-da",
+      "lineIndex": 66,
+      "position": 26
+    },
+    {
+      "id": 64,
+      "answer": "La-la-la",
+      "lineIndex": 67,
+      "position": 0
+    },
+    {
+      "id": 65,
+      "answer": "da-da-da-da-da",
+      "lineIndex": 67,
+      "position": 10
+    },
+    {
+      "id": 66,
+      "answer": "Uh-uh-uh-uh",
+      "lineIndex": 67,
+      "position": 26
+    },
+    {
+      "id": 67,
+      "answer": "La-la-la",
+      "lineIndex": 68,
+      "position": 0
+    },
+    {
+      "id": 68,
+      "answer": "da-da-da-da-da",
+      "lineIndex": 68,
+      "position": 10
+    },
+    {
+      "id": 69,
+      "answer": "da-da-da",
+      "lineIndex": 68,
+      "position": 26
+    },
+    {
+      "id": 70,
+      "answer": "La-la-la",
+      "lineIndex": 69,
+      "position": 0
+    },
+    {
+      "id": 71,
+      "answer": "da-da-da-da-da",
+      "lineIndex": 69,
+      "position": 10
+    }
+  ],
+  "metadata": {
+    "originalFile": "/Users/cuongluong/Desktop/lyricsiq/src/data/lyrics/the-only-difference.json",
+    "generatedAt": "2025-10-16T03:18:59.935Z",
+    "strategy": "important",
+    "totalBlanks": 72,
+    "imageUrl": "https://images.rapgenius.com/c5a24df00fb4c2a69701a985fa75f411.400x400x1.jpg",
+    "thumbnailUrl": "https://images.rapgenius.com/c5a24df00fb4c2a69701a985fa75f411.300x300x1.jpg",
+    "url": "https://genius.com/Panic-at-the-disco-the-only-difference-between-martyrdom-and-suicide-is-press-coverage-lyrics",
+    "releaseDate": "September 27, 2005"
+  }
+}

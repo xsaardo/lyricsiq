@@ -54,7 +54,7 @@ async function generateIndex() {
           thumbnailUrl: quiz.metadata?.thumbnailUrl,
           imageUrl: quiz.metadata?.imageUrl,
           releaseDate: quiz.metadata?.releaseDate,
-          path: `/src/data/quizzes/${file}`
+          path: `/data/quizzes/${file}`
         };
 
         quizzes.push(quizInfo);

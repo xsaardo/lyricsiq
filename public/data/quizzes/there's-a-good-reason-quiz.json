@@ -1,0 +1,583 @@
+{
+  "id": 335486,
+  "title": "There’s a Good Reason These Tables Are Numbered Honey, You Just Haven’t Thought of It Yet",
+  "artist": "Panic! at the Disco",
+  "difficulty": "hard",
+  "lyrics": "[Verse 1]\n_____0_____ leave all _____1_____, canes, and top hats with the _____2_____\nFrom that _____3_____, _____4_____ be out of place and _____5_____\nI'm _____6_____ this _____7_____ _____8_____ and _____9_____ every _____10_____ of it\n_____11_____ this _____12_____ for the _____13_____ _____14_____, and...\n_____15_____ leave all _____16_____, canes, and top hats with the _____17_____\nFrom that _____18_____, _____19_____ be out of place and _____20_____\nI'm _____21_____ this _____22_____ _____23_____ and _____24_____ every _____25_____ of it\n_____26_____ this _____27_____ for the _____28_____ _____29_____, and...\nWhen _____30_____ in black _____31_____\nWith _____32_____, _____33_____ _____34_____, _____35_____...\n_____36_____ goes _____37_____ to plan\n\n[Chorus]\nI'm the new _____38_____, never _____39_____ _____40_____, you can't stand it\n_____41_____ you say so under your _____42_____\n_____43_____ _____44_____ lips: \"When did he get all _____45_____?\"\n_____46_____ you heard that I'm the new _____47_____?\nNever _____48_____ _____49_____, and you can't stand it\n\n[Verse 2]\nNext is a trip to the, the _____50_____' room in vain, and\nI bet you just can't keep up with (<i>Keep up</i>) with these _____51_____\nAnd _____52_____, _____53_____, you are, you are a _____54_____ _____55_____\nI bet to them, your name is cheap; I bet to them, you look like sh...\nTalk to the _____56_____, oh, choke back tears\nAnd keep _____57_____ _____58_____ that \"I'm a diva!\"\nOh, and the _____59_____ in that _____60_____ box on the table\nThey just so _____61_____ to be laced with _____62_____\n\n\n\n\n[Chorus]\nI'm the new _____63_____, never _____64_____ _____65_____, you can't stand it\n_____66_____ you say so under your _____67_____\n_____68_____ _____69_____ lips: \"When did he get all _____70_____?\"\n_____71_____ you heard that I'm the new _____72_____?\nNever _____73_____ _____74_____, and you can't stand it\n\n[Bridge]\n_____75_____ you heard that I'm the new _____76_____?\nI've never _____77_____ _____78_____, and you can't stand it\n_____79_____ you heard that I'm the new _____80_____?\nI've never _____81_____ _____82_____, and you can't stand it\n\n[Outro]\nAnd I know, and I know it just _____83_____ feel like\nA night out, with no one _____84_____ you up\nI've never been so _____85_____\nSo, of _____86_____, you'll be _____87_____ when I spike the punch\nAnd I know, and I know it just _____88_____ feel like\nA night out, with no one sizing you up\nI've never been so _____89_____\nSo, of course, you'll be _____90_____ when I spike the punch\nAnd I know, and I know it just _____91_____ feel like\nA night out, with no one sizing you up\nI've never been so _____92_____\nSo, of course, you'll be _____93_____ when I spike the punch!",
+  "blanks": [
+    {
+      "id": 0,
+      "answer": "Please",
+      "lineIndex": 1,
+      "position": 0
+    },
+    {
+      "id": 1,
+      "answer": "overcoats",
+      "lineIndex": 1,
+      "position": 17
+    },
+    {
+      "id": 2,
+      "answer": "doorman",
+      "lineIndex": 1,
+      "position": 57
+    },
+    {
+      "id": 3,
+      "answer": "moment",
+      "lineIndex": 2,
+      "position": 10
+    },
+    {
+      "id": 4,
+      "answer": "you'll",
+      "lineIndex": 2,
+      "position": 18
+    },
+    {
+      "id": 5,
+      "answer": "underdressed",
+      "lineIndex": 2,
+      "position": 45
+    },
+    {
+      "id": 6,
+      "answer": "wrecking",
+      "lineIndex": 3,
+      "position": 4
+    },
+    {
+      "id": 7,
+      "answer": "evening",
+      "lineIndex": 3,
+      "position": 18
+    },
+    {
+      "id": 8,
+      "answer": "already",
+      "lineIndex": 3,
+      "position": 26
+    },
+    {
+      "id": 9,
+      "answer": "loving",
+      "lineIndex": 3,
+      "position": 38
+    },
+    {
+      "id": 10,
+      "answer": "minute",
+      "lineIndex": 3,
+      "position": 51
+    },
+    {
+      "id": 11,
+      "answer": "Ruining",
+      "lineIndex": 4,
+      "position": 0
+    },
+    {
+      "id": 12,
+      "answer": "banquet",
+      "lineIndex": 4,
+      "position": 13
+    },
+    {
+      "id": 13,
+      "answer": "mildly",
+      "lineIndex": 4,
+      "position": 29
+    },
+    {
+      "id": 14,
+      "answer": "inspiring",
+      "lineIndex": 4,
+      "position": 36
+    },
+    {
+      "id": 15,
+      "answer": "Please",
+      "lineIndex": 5,
+      "position": 0
+    },
+    {
+      "id": 16,
+      "answer": "overcoats",
+      "lineIndex": 5,
+      "position": 17
+    },
+    {
+      "id": 17,
+      "answer": "doorman",
+      "lineIndex": 5,
+      "position": 57
+    },
+    {
+      "id": 18,
+      "answer": "moment",
+      "lineIndex": 6,
+      "position": 10
+    },
+    {
+      "id": 19,
+      "answer": "you'll",
+      "lineIndex": 6,
+      "position": 18
+    },
+    {
+      "id": 20,
+      "answer": "underdressed",
+      "lineIndex": 6,
+      "position": 45
+    },
+    {
+      "id": 21,
+      "answer": "wrecking",
+      "lineIndex": 7,
+      "position": 4
+    },
+    {
+      "id": 22,
+      "answer": "evening",
+      "lineIndex": 7,
+      "position": 18
+    },
+    {
+      "id": 23,
+      "answer": "already",
+      "lineIndex": 7,
+      "position": 26
+    },
+    {
+      "id": 24,
+      "answer": "loving",
+      "lineIndex": 7,
+      "position": 38
+    },
+    {
+      "id": 25,
+      "answer": "minute",
+      "lineIndex": 7,
+      "position": 51
+    },
+    {
+      "id": 26,
+      "answer": "Ruining",
+      "lineIndex": 8,
+      "position": 0
+    },
+    {
+      "id": 27,
+      "answer": "banquet",
+      "lineIndex": 8,
+      "position": 13
+    },
+    {
+      "id": 28,
+      "answer": "mildly",
+      "lineIndex": 8,
+      "position": 29
+    },
+    {
+      "id": 29,
+      "answer": "inspiring",
+      "lineIndex": 8,
+      "position": 36
+    },
+    {
+      "id": 30,
+      "answer": "you're",
+      "lineIndex": 9,
+      "position": 5
+    },
+    {
+      "id": 31,
+      "answer": "slacks",
+      "lineIndex": 9,
+      "position": 21
+    },
+    {
+      "id": 32,
+      "answer": "accentuating",
+      "lineIndex": 10,
+      "position": 5
+    },
+    {
+      "id": 33,
+      "answer": "off-white",
+      "lineIndex": 10,
+      "position": 19
+    },
+    {
+      "id": 34,
+      "answer": "pinstripes",
+      "lineIndex": 10,
+      "position": 29
+    },
+    {
+      "id": 35,
+      "answer": "whoa-oh",
+      "lineIndex": 10,
+      "position": 41
+    },
+    {
+      "id": 36,
+      "answer": "Everything",
+      "lineIndex": 11,
+      "position": 0
+    },
+    {
+      "id": 37,
+      "answer": "according",
+      "lineIndex": 11,
+      "position": 16
+    },
+    {
+      "id": 38,
+      "answer": "cancer",
+      "lineIndex": 14,
+      "position": 12
+    },
+    {
+      "id": 39,
+      "answer": "looked",
+      "lineIndex": 14,
+      "position": 26
+    },
+    {
+      "id": 40,
+      "answer": "better",
+      "lineIndex": 14,
+      "position": 33
+    },
+    {
+      "id": 41,
+      "answer": "Because",
+      "lineIndex": 15,
+      "position": 0
+    },
+    {
+      "id": 42,
+      "answer": "breath",
+      "lineIndex": 15,
+      "position": 30
+    },
+    {
+      "id": 43,
+      "answer": "You're",
+      "lineIndex": 16,
+      "position": 0
+    },
+    {
+      "id": 44,
+      "answer": "reading",
+      "lineIndex": 16,
+      "position": 7
+    },
+    {
+      "id": 45,
+      "answer": "confident",
+      "lineIndex": 16,
+      "position": 42
+    },
+    {
+      "id": 46,
+      "answer": "Haven't",
+      "lineIndex": 17,
+      "position": 0
+    },
+    {
+      "id": 47,
+      "answer": "cancer",
+      "lineIndex": 17,
+      "position": 35
+    },
+    {
+      "id": 48,
+      "answer": "looked",
+      "lineIndex": 18,
+      "position": 6
+    },
+    {
+      "id": 49,
+      "answer": "better",
+      "lineIndex": 18,
+      "position": 13
+    },
+    {
+      "id": 50,
+      "answer": "ladies",
+      "lineIndex": 21,
+      "position": 27
+    },
+    {
+      "id": 51,
+      "answer": "fashionistas",
+      "lineIndex": 22,
+      "position": 62
+    },
+    {
+      "id": 52,
+      "answer": "tonight",
+      "lineIndex": 23,
+      "position": 4
+    },
+    {
+      "id": 53,
+      "answer": "tonight",
+      "lineIndex": 23,
+      "position": 13
+    },
+    {
+      "id": 54,
+      "answer": "whispering",
+      "lineIndex": 23,
+      "position": 41
+    },
+    {
+      "id": 55,
+      "answer": "campaign",
+      "lineIndex": 23,
+      "position": 52
+    },
+    {
+      "id": 56,
+      "answer": "mirror",
+      "lineIndex": 25,
+      "position": 12
+    },
+    {
+      "id": 57,
+      "answer": "telling",
+      "lineIndex": 26,
+      "position": 9
+    },
+    {
+      "id": 58,
+      "answer": "yourself",
+      "lineIndex": 26,
+      "position": 17
+    },
+    {
+      "id": 59,
+      "answer": "smokes",
+      "lineIndex": 27,
+      "position": 12
+    },
+    {
+      "id": 60,
+      "answer": "cigarette",
+      "lineIndex": 27,
+      "position": 27
+    },
+    {
+      "id": 61,
+      "answer": "happen",
+      "lineIndex": 28,
+      "position": 13
+    },
+    {
+      "id": 62,
+      "answer": "nitroglycerin",
+      "lineIndex": 28,
+      "position": 37
+    },
+    {
+      "id": 63,
+      "answer": "cancer",
+      "lineIndex": 34,
+      "position": 12
+    },
+    {
+      "id": 64,
+      "answer": "looked",
+      "lineIndex": 34,
+      "position": 26
+    },
+    {
+      "id": 65,
+      "answer": "better",
+      "lineIndex": 34,
+      "position": 33
+    },
+    {
+      "id": 66,
+      "answer": "Because",
+      "lineIndex": 35,
+      "position": 0
+    },
+    {
+      "id": 67,
+      "answer": "breath",
+      "lineIndex": 35,
+      "position": 30
+    },
+    {
+      "id": 68,
+      "answer": "You're",
+      "lineIndex": 36,
+      "position": 0
+    },
+    {
+      "id": 69,
+      "answer": "reading",
+      "lineIndex": 36,
+      "position": 7
+    },
+    {
+      "id": 70,
+      "answer": "confident",
+      "lineIndex": 36,
+      "position": 42
+    },
+    {
+      "id": 71,
+      "answer": "Haven't",
+      "lineIndex": 37,
+      "position": 0
+    },
+    {
+      "id": 72,
+      "answer": "cancer",
+      "lineIndex": 37,
+      "position": 35
+    },
+    {
+      "id": 73,
+      "answer": "looked",
+      "lineIndex": 38,
+      "position": 6
+    },
+    {
+      "id": 74,
+      "answer": "better",
+      "lineIndex": 38,
+      "position": 13
+    },
+    {
+      "id": 75,
+      "answer": "Haven't",
+      "lineIndex": 41,
+      "position": 0
+    },
+    {
+      "id": 76,
+      "answer": "cancer",
+      "lineIndex": 41,
+      "position": 35
+    },
+    {
+      "id": 77,
+      "answer": "looked",
+      "lineIndex": 42,
+      "position": 11
+    },
+    {
+      "id": 78,
+      "answer": "better",
+      "lineIndex": 42,
+      "position": 18
+    },
+    {
+      "id": 79,
+      "answer": "Haven't",
+      "lineIndex": 43,
+      "position": 0
+    },
+    {
+      "id": 80,
+      "answer": "cancer",
+      "lineIndex": 43,
+      "position": 35
+    },
+    {
+      "id": 81,
+      "answer": "looked",
+      "lineIndex": 44,
+      "position": 11
+    },
+    {
+      "id": 82,
+      "answer": "better",
+      "lineIndex": 44,
+      "position": 18
+    },
+    {
+      "id": 83,
+      "answer": "doesn't",
+      "lineIndex": 47,
+      "position": 31
+    },
+    {
+      "id": 84,
+      "answer": "sizing",
+      "lineIndex": 48,
+      "position": 25
+    },
+    {
+      "id": 85,
+      "answer": "surreptitious",
+      "lineIndex": 49,
+      "position": 19
+    },
+    {
+      "id": 86,
+      "answer": "course",
+      "lineIndex": 50,
+      "position": 7
+    },
+    {
+      "id": 87,
+      "answer": "distracted",
+      "lineIndex": 50,
+      "position": 25
+    },
+    {
+      "id": 88,
+      "answer": "doesn't",
+      "lineIndex": 51,
+      "position": 31
+    },
+    {
+      "id": 89,
+      "answer": "surreptitious",
+      "lineIndex": 53,
+      "position": 19
+    },
+    {
+      "id": 90,
+      "answer": "distracted",
+      "lineIndex": 54,
+      "position": 25
+    },
+    {
+      "id": 91,
+      "answer": "doesn't",
+      "lineIndex": 55,
+      "position": 31
+    },
+    {
+      "id": 92,
+      "answer": "surreptitious",
+      "lineIndex": 57,
+      "position": 19
+    },
+    {
+      "id": 93,
+      "answer": "distracted",
+      "lineIndex": 58,
+      "position": 25
+    }
+  ],
+  "metadata": {
+    "originalFile": "/Users/cuongluong/Desktop/lyricsiq/src/data/lyrics/there's-a-good-reason.json",
+    "generatedAt": "2025-10-16T03:23:30.176Z",
+    "strategy": "important",
+    "totalBlanks": 94,
+    "imageUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.999x999x1.png",
+    "thumbnailUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.300x300x1.png",
+    "url": "https://genius.com/Panic-at-the-disco-theres-a-good-reason-these-tables-are-numbered-honey-you-just-havent-thought-of-it-yet-lyrics",
+    "releaseDate": "September 27, 2005"
+  }
+}
