@@ -1,0 +1,523 @@
+{
+  "id": 306206,
+  "title": "Build God, Then We’ll Talk",
+  "artist": "Panic! at the Disco",
+  "difficulty": "hard",
+  "lyrics": "[Verse 1]\nIt's these _____0_____ _____1_____ on the, _____2_____\n_____3_____ of 4th and _____4_____ _____5_____\n_____6_____ only 'cause _____7_____ just that _____8_____\nAny _____9_____ _____10_____ would cross _____11_____ upon _____12_____\nThe rooms have a hint of _____13_____\nAnd maybe just a dash of _____14_____\nAnd the habit of _____15_____\nRight _____16_____ your very, _____17_____, eyes\n\n[Chorus]\nAlong with the _____18_____ _____19_____\nWhat a _____20_____ _____21_____ of _____22_____\nInside\nWhat a _____23_____ _____24_____ of _____25_____\n\n[Post-Chorus]\n_____26_____ _____27_____ range from a lawyer and a virgin\n_____28_____ with a rosary tucked inside her _____29_____\nShe's _____30_____ a job at the firm come Monday\nThe missus will stay with the _____31_____ _____32_____\n_____33_____ aside, she really needs his money\nA _____34_____ _____35_____ of _____36_____\nYeah, yeah\n\n[Verse 2]\nAnd not to _____37_____ the _____38_____\nAnd his _____39_____ for that \"virgin\"\nYes, the one the lawyer met with on \"_____40_____ _____41_____\"\nAs he said to the missus\nWell, only hours before, after he had left\nShe was fixing her face in a _____42_____\nThere was a _____43_____ crash\nThere was a _____44_____ crash\n_____45_____ her and the badge\nShe _____46_____ her purse and her bag\nAnd held a \"purse\" of a _____47_____ kind\n\n\n\n\n[Chorus]\nAlong with the people inside\nWhat a _____48_____ _____49_____ of _____50_____\nInside\nWhat a _____51_____ _____52_____ of _____53_____\n\n[Bridge]\nThere are no\n_____54_____ on roses and girls in white _____55_____\nIt's _____56_____ with _____57_____ and taking best _____58_____\nAt the shade of the sheets and before all the stains\nAnd a few more of your least _____59_____ things\n_____60_____ on roses and girls in white _____61_____\nIt's _____62_____ with _____63_____ and taking best _____64_____\nAt the shade of the sheets and before all the stains\nAnd a few more of your least _____65_____ things\n\n[Chorus]\nInside\nWhat a _____66_____ _____67_____ of _____68_____\nInside\nWhat a _____69_____ _____70_____ of _____71_____\n\n[Cello Solo]\n\n[Outro]\n_____72_____ on roses and girls in white _____73_____\nIt's _____74_____ with _____75_____ and taking best _____76_____\nAt the shade of the sheets and before all the stains\nAnd a few more of your least _____77_____ things\n_____78_____ on roses and the girls in white _____79_____\nAnd _____80_____ with the _____81_____ and the taking best _____82_____\nAt the shade of the sheets and before all the stains\nAnd a few more of your least _____83_____ things",
+  "blanks": [
+    {
+      "id": 0,
+      "answer": "substandard",
+      "lineIndex": 1,
+      "position": 11
+    },
+    {
+      "id": 1,
+      "answer": "motels",
+      "lineIndex": 1,
+      "position": 23
+    },
+    {
+      "id": 2,
+      "answer": "la-la-la-la-la",
+      "lineIndex": 1,
+      "position": 38
+    },
+    {
+      "id": 3,
+      "answer": "Corner",
+      "lineIndex": 2,
+      "position": 0
+    },
+    {
+      "id": 4,
+      "answer": "Fremont",
+      "lineIndex": 2,
+      "position": 18
+    },
+    {
+      "id": 5,
+      "answer": "Street",
+      "lineIndex": 2,
+      "position": 26
+    },
+    {
+      "id": 6,
+      "answer": "Appealing",
+      "lineIndex": 3,
+      "position": 0
+    },
+    {
+      "id": 7,
+      "answer": "they're",
+      "lineIndex": 3,
+      "position": 22
+    },
+    {
+      "id": 8,
+      "answer": "unappealing",
+      "lineIndex": 3,
+      "position": 40
+    },
+    {
+      "id": 9,
+      "answer": "practiced",
+      "lineIndex": 4,
+      "position": 4
+    },
+    {
+      "id": 10,
+      "answer": "Catholic",
+      "lineIndex": 4,
+      "position": 14
+    },
+    {
+      "id": 11,
+      "answer": "themselves",
+      "lineIndex": 4,
+      "position": 35
+    },
+    {
+      "id": 12,
+      "answer": "entering",
+      "lineIndex": 4,
+      "position": 51
+    },
+    {
+      "id": 13,
+      "answer": "asbestos",
+      "lineIndex": 5,
+      "position": 25
+    },
+    {
+      "id": 14,
+      "answer": "formaldehyde",
+      "lineIndex": 6,
+      "position": 25
+    },
+    {
+      "id": 15,
+      "answer": "decomposing",
+      "lineIndex": 7,
+      "position": 17
+    },
+    {
+      "id": 16,
+      "answer": "before",
+      "lineIndex": 8,
+      "position": 6
+    },
+    {
+      "id": 17,
+      "answer": "la-la-la-la",
+      "lineIndex": 8,
+      "position": 24
+    },
+    {
+      "id": 18,
+      "answer": "people",
+      "lineIndex": 11,
+      "position": 15
+    },
+    {
+      "id": 19,
+      "answer": "inside",
+      "lineIndex": 11,
+      "position": 22
+    },
+    {
+      "id": 20,
+      "answer": "wonderful",
+      "lineIndex": 12,
+      "position": 7
+    },
+    {
+      "id": 21,
+      "answer": "caricature",
+      "lineIndex": 12,
+      "position": 17
+    },
+    {
+      "id": 22,
+      "answer": "intimacy",
+      "lineIndex": 12,
+      "position": 31
+    },
+    {
+      "id": 23,
+      "answer": "wonderful",
+      "lineIndex": 14,
+      "position": 7
+    },
+    {
+      "id": 24,
+      "answer": "caricature",
+      "lineIndex": 14,
+      "position": 17
+    },
+    {
+      "id": 25,
+      "answer": "intimacy",
+      "lineIndex": 14,
+      "position": 31
+    },
+    {
+      "id": 26,
+      "answer": "Tonight's",
+      "lineIndex": 17,
+      "position": 0
+    },
+    {
+      "id": 27,
+      "answer": "tenants",
+      "lineIndex": 17,
+      "position": 10
+    },
+    {
+      "id": 28,
+      "answer": "Accessorizing",
+      "lineIndex": 18,
+      "position": 0
+    },
+    {
+      "id": 29,
+      "answer": "lingerie",
+      "lineIndex": 18,
+      "position": 46
+    },
+    {
+      "id": 30,
+      "answer": "getting",
+      "lineIndex": 19,
+      "position": 6
+    },
+    {
+      "id": 31,
+      "answer": "cheating",
+      "lineIndex": 20,
+      "position": 30
+    },
+    {
+      "id": 32,
+      "answer": "attorney",
+      "lineIndex": 20,
+      "position": 39
+    },
+    {
+      "id": 33,
+      "answer": "Moonlighting",
+      "lineIndex": 21,
+      "position": 0
+    },
+    {
+      "id": 34,
+      "answer": "wonderful",
+      "lineIndex": 22,
+      "position": 2
+    },
+    {
+      "id": 35,
+      "answer": "caricature",
+      "lineIndex": 22,
+      "position": 12
+    },
+    {
+      "id": 36,
+      "answer": "intimacy",
+      "lineIndex": 22,
+      "position": 26
+    },
+    {
+      "id": 37,
+      "answer": "mention",
+      "lineIndex": 26,
+      "position": 11
+    },
+    {
+      "id": 38,
+      "answer": "constable",
+      "lineIndex": 26,
+      "position": 23
+    },
+    {
+      "id": 39,
+      "answer": "proposition",
+      "lineIndex": 27,
+      "position": 8
+    },
+    {
+      "id": 40,
+      "answer": "strictly",
+      "lineIndex": 28,
+      "position": 37
+    },
+    {
+      "id": 41,
+      "answer": "business",
+      "lineIndex": 28,
+      "position": 46
+    },
+    {
+      "id": 42,
+      "answer": "compact",
+      "lineIndex": 31,
+      "position": 29
+    },
+    {
+      "id": 43,
+      "answer": "terrible",
+      "lineIndex": 32,
+      "position": 12
+    },
+    {
+      "id": 44,
+      "answer": "terrible",
+      "lineIndex": 33,
+      "position": 12
+    },
+    {
+      "id": 45,
+      "answer": "Between",
+      "lineIndex": 34,
+      "position": 0
+    },
+    {
+      "id": 46,
+      "answer": "spilled",
+      "lineIndex": 35,
+      "position": 4
+    },
+    {
+      "id": 47,
+      "answer": "different",
+      "lineIndex": 36,
+      "position": 24
+    },
+    {
+      "id": 48,
+      "answer": "wonderful",
+      "lineIndex": 43,
+      "position": 7
+    },
+    {
+      "id": 49,
+      "answer": "caricature",
+      "lineIndex": 43,
+      "position": 17
+    },
+    {
+      "id": 50,
+      "answer": "intimacy",
+      "lineIndex": 43,
+      "position": 31
+    },
+    {
+      "id": 51,
+      "answer": "wonderful",
+      "lineIndex": 45,
+      "position": 7
+    },
+    {
+      "id": 52,
+      "answer": "caricature",
+      "lineIndex": 45,
+      "position": 17
+    },
+    {
+      "id": 53,
+      "answer": "intimacy",
+      "lineIndex": 45,
+      "position": 31
+    },
+    {
+      "id": 54,
+      "answer": "Raindrops",
+      "lineIndex": 49,
+      "position": 0
+    },
+    {
+      "id": 55,
+      "answer": "dresses",
+      "lineIndex": 49,
+      "position": 38
+    },
+    {
+      "id": 56,
+      "answer": "sleeping",
+      "lineIndex": 50,
+      "position": 5
+    },
+    {
+      "id": 57,
+      "answer": "roaches",
+      "lineIndex": 50,
+      "position": 19
+    },
+    {
+      "id": 58,
+      "answer": "guesses",
+      "lineIndex": 50,
+      "position": 43
+    },
+    {
+      "id": 59,
+      "answer": "favorite",
+      "lineIndex": 52,
+      "position": 29
+    },
+    {
+      "id": 60,
+      "answer": "Raindrops",
+      "lineIndex": 53,
+      "position": 0
+    },
+    {
+      "id": 61,
+      "answer": "dresses",
+      "lineIndex": 53,
+      "position": 38
+    },
+    {
+      "id": 62,
+      "answer": "sleeping",
+      "lineIndex": 54,
+      "position": 5
+    },
+    {
+      "id": 63,
+      "answer": "roaches",
+      "lineIndex": 54,
+      "position": 19
+    },
+    {
+      "id": 64,
+      "answer": "guesses",
+      "lineIndex": 54,
+      "position": 43
+    },
+    {
+      "id": 65,
+      "answer": "favorite",
+      "lineIndex": 56,
+      "position": 29
+    },
+    {
+      "id": 66,
+      "answer": "wonderful",
+      "lineIndex": 60,
+      "position": 7
+    },
+    {
+      "id": 67,
+      "answer": "caricature",
+      "lineIndex": 60,
+      "position": 17
+    },
+    {
+      "id": 68,
+      "answer": "intimacy",
+      "lineIndex": 60,
+      "position": 31
+    },
+    {
+      "id": 69,
+      "answer": "wonderful",
+      "lineIndex": 62,
+      "position": 7
+    },
+    {
+      "id": 70,
+      "answer": "caricature",
+      "lineIndex": 62,
+      "position": 17
+    },
+    {
+      "id": 71,
+      "answer": "intimacy",
+      "lineIndex": 62,
+      "position": 31
+    },
+    {
+      "id": 72,
+      "answer": "Raindrops",
+      "lineIndex": 67,
+      "position": 0
+    },
+    {
+      "id": 73,
+      "answer": "dresses",
+      "lineIndex": 67,
+      "position": 38
+    },
+    {
+      "id": 74,
+      "answer": "sleeping",
+      "lineIndex": 68,
+      "position": 5
+    },
+    {
+      "id": 75,
+      "answer": "roaches",
+      "lineIndex": 68,
+      "position": 19
+    },
+    {
+      "id": 76,
+      "answer": "guesses",
+      "lineIndex": 68,
+      "position": 43
+    },
+    {
+      "id": 77,
+      "answer": "favorite",
+      "lineIndex": 70,
+      "position": 29
+    },
+    {
+      "id": 78,
+      "answer": "Raindrops",
+      "lineIndex": 71,
+      "position": 0
+    },
+    {
+      "id": 79,
+      "answer": "dresses",
+      "lineIndex": 71,
+      "position": 42
+    },
+    {
+      "id": 80,
+      "answer": "sleeping",
+      "lineIndex": 72,
+      "position": 4
+    },
+    {
+      "id": 81,
+      "answer": "roaches",
+      "lineIndex": 72,
+      "position": 22
+    },
+    {
+      "id": 82,
+      "answer": "guesses",
+      "lineIndex": 72,
+      "position": 50
+    },
+    {
+      "id": 83,
+      "answer": "favorite",
+      "lineIndex": 74,
+      "position": 29
+    }
+  ],
+  "metadata": {
+    "originalFile": "/Users/cuongluong/Desktop/lyricsiq/src/data/lyrics/build-god.json",
+    "generatedAt": "2025-10-16T03:23:42.025Z",
+    "strategy": "important",
+    "totalBlanks": 84,
+    "imageUrl": "https://images.genius.com/aaac98f4fa8575f45a2e80b1e684b784.1000x1000x1.png",
+    "thumbnailUrl": "https://images.genius.com/aaac98f4fa8575f45a2e80b1e684b784.300x300x1.png",
+    "url": "https://genius.com/Panic-at-the-disco-build-god-then-well-talk-lyrics",
+    "releaseDate": "March 26, 2007"
+  }
+}
