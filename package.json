@@ -8,6 +8,7 @@
     "dev": "vite",
     "prebuild": "node scripts/generate-quiz-index.js",
     "build": "vite build",
+    "postbuild": "cp src/data/quizzes/index.json public/data/quizzes/index.json",
     "preview": "vite preview",
     "index": "node scripts/generate-quiz-index.js"
   },
