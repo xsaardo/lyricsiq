@@ -1,0 +1,679 @@
+{
+  "id": 179353,
+  "title": "London Beckoned Songs About Money Written by Machines",
+  "artist": "Panic! at the Disco",
+  "difficulty": "hard",
+  "lyrics": "[Verse 1]\nStop _____0_____, make a name for _____1_____\nBoy, you _____2_____ put that pen to _____3_____ and _____4_____ your way out\nIf you talk, you _____5_____ walk, you _____6_____ back your shit up\nWith more than good _____7_____ _____8_____ _____9_____ all _____10_____ the gun\n_____11_____ _____12_____ \"a _____13_____\"\nOh, he's _____14_____ _____15_____, to just a _____16_____ _____17_____\nIf you talk, you _____18_____ walk, you _____19_____ keep your _____20_____ shut\nWith more than good _____21_____ _____22_____ _____23_____ all _____24_____ the gun\n\n[Pre-Chorus]\n_____25_____!, meet the _____26_____\nIt's time for us to take a _____27_____\nIt's time for us to take a _____28_____\n_____29_____!, meet the _____30_____\nIt's time for us to take a _____31_____\nIt's time for us\n\n[Chorus]\nWell, _____32_____ just a wet _____33_____ for the _____34_____\nMake us it, make us hip, make us scene\nOr shrug us off your _____35_____\nDon't _____36_____ a _____37_____ word that we wrote\nWell, we're just a wet dream for the _____38_____\nMake us it, make us hip, make us scene\nOr shrug us off your _____39_____\nDon't _____40_____ a _____41_____ word that we wrote\n\n\n\n\n[Verse 2]\nI'm _____42_____, and I'm _____43_____ my lungs\nBoy, you know it feels good with fire back on your _____44_____\nIf you talk, you _____45_____ walk, you _____46_____ back your shit up\nWith more than good hooks while _____47_____ all under the gun\nStart _____48_____ \"a _____49_____\"\nOh, he's _____50_____ _____51_____, to just a _____52_____ _____53_____\nWell, keep quiet! Let us sing like the doves\nThen _____54_____ if it's done with _____55_____ or lack _____56_____\n\n[Interlude]\nJust for the _____57_____, the _____58_____ today\nIs _____59_____ _____60_____ with a good _____61_____ of\nA: _____62_____, or B: _____63_____\nIn what the _____64_____ say\n\n[Pre-Chorus]\nIt's time for us to take a _____65_____\nIt's time for us\n\n[Chorus]\nWell, we're just a wet dream for the _____66_____\nMake us it, make us hip, make us scene\nOr shrug us off your _____67_____\nDon't _____68_____ a _____69_____ word that we wrote\nWell, we're just a wet dream for the _____70_____\nMake us it, make us hip, make us scene\nOr shrug us off your _____71_____\nDon't _____72_____ a _____73_____ word that we wrote\n\n\n\n\n[Bridge]\n(_____74_____, _____75_____)\n(_____76_____, _____77_____)\n(_____78_____, _____79_____)\n(_____80_____, _____81_____)\nJust for the _____82_____, the _____83_____ today\nIs _____84_____ _____85_____ with a good _____86_____ of\n(_____87_____, _____88_____)\n(_____89_____, _____90_____)\nA: _____91_____, or B: _____92_____\nIn what the _____93_____ say\n\n[Chorus]\nWell, we're just a wet dream for the _____94_____\nMake us it, make us hip, make us scene\nOr shrug us off your _____95_____\nDon't _____96_____ a _____97_____ word that we wrote\nWell, we're just a wet dream for the _____98_____\nMake us it, make us hip, make us scene\nOr shrug us off your _____99_____\nDon't _____100_____ a _____101_____ word that we wrote\n\n[Outro]\nJust for the _____102_____, the _____103_____ today\nIs _____104_____ _____105_____ with a good _____106_____ of\nA: _____107_____, or B: _____108_____\nIn what the _____109_____ say",
+  "blanks": [
+    {
+      "id": 0,
+      "answer": "stalling",
+      "lineIndex": 1,
+      "position": 5
+    },
+    {
+      "id": 1,
+      "answer": "yourself",
+      "lineIndex": 1,
+      "position": 31
+    },
+    {
+      "id": 2,
+      "answer": "better",
+      "lineIndex": 2,
+      "position": 9
+    },
+    {
+      "id": 3,
+      "answer": "paper",
+      "lineIndex": 2,
+      "position": 32
+    },
+    {
+      "id": 4,
+      "answer": "charm",
+      "lineIndex": 2,
+      "position": 42
+    },
+    {
+      "id": 5,
+      "answer": "better",
+      "lineIndex": 3,
+      "position": 17
+    },
+    {
+      "id": 6,
+      "answer": "better",
+      "lineIndex": 3,
+      "position": 34
+    },
+    {
+      "id": 7,
+      "answer": "hooks",
+      "lineIndex": 4,
+      "position": 20
+    },
+    {
+      "id": 8,
+      "answer": "while",
+      "lineIndex": 4,
+      "position": 26
+    },
+    {
+      "id": 9,
+      "answer": "you're",
+      "lineIndex": 4,
+      "position": 32
+    },
+    {
+      "id": 10,
+      "answer": "under",
+      "lineIndex": 4,
+      "position": 43
+    },
+    {
+      "id": 11,
+      "answer": "Start",
+      "lineIndex": 5,
+      "position": 0
+    },
+    {
+      "id": 12,
+      "answer": "talking",
+      "lineIndex": 5,
+      "position": 6
+    },
+    {
+      "id": 13,
+      "answer": "sensationalist",
+      "lineIndex": 5,
+      "position": 17
+    },
+    {
+      "id": 14,
+      "answer": "slightly",
+      "lineIndex": 6,
+      "position": 9
+    },
+    {
+      "id": 15,
+      "answer": "clever",
+      "lineIndex": 6,
+      "position": 18
+    },
+    {
+      "id": 16,
+      "answer": "certain",
+      "lineIndex": 6,
+      "position": 36
+    },
+    {
+      "id": 17,
+      "answer": "extent",
+      "lineIndex": 6,
+      "position": 44
+    },
+    {
+      "id": 18,
+      "answer": "better",
+      "lineIndex": 7,
+      "position": 17
+    },
+    {
+      "id": 19,
+      "answer": "better",
+      "lineIndex": 7,
+      "position": 34
+    },
+    {
+      "id": 20,
+      "answer": "mouth",
+      "lineIndex": 7,
+      "position": 51
+    },
+    {
+      "id": 21,
+      "answer": "hooks",
+      "lineIndex": 8,
+      "position": 20
+    },
+    {
+      "id": 22,
+      "answer": "while",
+      "lineIndex": 8,
+      "position": 26
+    },
+    {
+      "id": 23,
+      "answer": "you're",
+      "lineIndex": 8,
+      "position": 32
+    },
+    {
+      "id": 24,
+      "answer": "under",
+      "lineIndex": 8,
+      "position": 43
+    },
+    {
+      "id": 25,
+      "answer": "Panic",
+      "lineIndex": 11,
+      "position": 0
+    },
+    {
+      "id": 26,
+      "answer": "press",
+      "lineIndex": 11,
+      "position": 17
+    },
+    {
+      "id": 27,
+      "answer": "chance",
+      "lineIndex": 12,
+      "position": 27
+    },
+    {
+      "id": 28,
+      "answer": "chance",
+      "lineIndex": 13,
+      "position": 27
+    },
+    {
+      "id": 29,
+      "answer": "Panic",
+      "lineIndex": 14,
+      "position": 0
+    },
+    {
+      "id": 30,
+      "answer": "press",
+      "lineIndex": 14,
+      "position": 17
+    },
+    {
+      "id": 31,
+      "answer": "chance",
+      "lineIndex": 15,
+      "position": 27
+    },
+    {
+      "id": 32,
+      "answer": "we're",
+      "lineIndex": 19,
+      "position": 6
+    },
+    {
+      "id": 33,
+      "answer": "dream",
+      "lineIndex": 19,
+      "position": 23
+    },
+    {
+      "id": 34,
+      "answer": "webzine",
+      "lineIndex": 19,
+      "position": 37
+    },
+    {
+      "id": 35,
+      "answer": "shoulders",
+      "lineIndex": 21,
+      "position": 21
+    },
+    {
+      "id": 36,
+      "answer": "approve",
+      "lineIndex": 22,
+      "position": 6
+    },
+    {
+      "id": 37,
+      "answer": "single",
+      "lineIndex": 22,
+      "position": 16
+    },
+    {
+      "id": 38,
+      "answer": "webzine",
+      "lineIndex": 23,
+      "position": 37
+    },
+    {
+      "id": 39,
+      "answer": "shoulders",
+      "lineIndex": 25,
+      "position": 21
+    },
+    {
+      "id": 40,
+      "answer": "approve",
+      "lineIndex": 26,
+      "position": 6
+    },
+    {
+      "id": 41,
+      "answer": "single",
+      "lineIndex": 26,
+      "position": 16
+    },
+    {
+      "id": 42,
+      "answer": "burning",
+      "lineIndex": 32,
+      "position": 4
+    },
+    {
+      "id": 43,
+      "answer": "blacking",
+      "lineIndex": 32,
+      "position": 21
+    },
+    {
+      "id": 44,
+      "answer": "tongue",
+      "lineIndex": 33,
+      "position": 51
+    },
+    {
+      "id": 45,
+      "answer": "better",
+      "lineIndex": 34,
+      "position": 17
+    },
+    {
+      "id": 46,
+      "answer": "better",
+      "lineIndex": 34,
+      "position": 34
+    },
+    {
+      "id": 47,
+      "answer": "you're",
+      "lineIndex": 35,
+      "position": 32
+    },
+    {
+      "id": 48,
+      "answer": "talking",
+      "lineIndex": 36,
+      "position": 6
+    },
+    {
+      "id": 49,
+      "answer": "sensationalist",
+      "lineIndex": 36,
+      "position": 17
+    },
+    {
+      "id": 50,
+      "answer": "slightly",
+      "lineIndex": 37,
+      "position": 9
+    },
+    {
+      "id": 51,
+      "answer": "clever",
+      "lineIndex": 37,
+      "position": 18
+    },
+    {
+      "id": 52,
+      "answer": "certain",
+      "lineIndex": 37,
+      "position": 36
+    },
+    {
+      "id": 53,
+      "answer": "extent",
+      "lineIndex": 37,
+      "position": 44
+    },
+    {
+      "id": 54,
+      "answer": "decide",
+      "lineIndex": 39,
+      "position": 5
+    },
+    {
+      "id": 55,
+      "answer": "purpose",
+      "lineIndex": 39,
+      "position": 30
+    },
+    {
+      "id": 56,
+      "answer": "thereof",
+      "lineIndex": 39,
+      "position": 46
+    },
+    {
+      "id": 57,
+      "answer": "record",
+      "lineIndex": 42,
+      "position": 13
+    },
+    {
+      "id": 58,
+      "answer": "weather",
+      "lineIndex": 42,
+      "position": 25
+    },
+    {
+      "id": 59,
+      "answer": "slightly",
+      "lineIndex": 43,
+      "position": 3
+    },
+    {
+      "id": 60,
+      "answer": "sarcastic",
+      "lineIndex": 43,
+      "position": 12
+    },
+    {
+      "id": 61,
+      "answer": "chance",
+      "lineIndex": 43,
+      "position": 34
+    },
+    {
+      "id": 62,
+      "answer": "indifference",
+      "lineIndex": 44,
+      "position": 3
+    },
+    {
+      "id": 63,
+      "answer": "disinterest",
+      "lineIndex": 44,
+      "position": 23
+    },
+    {
+      "id": 64,
+      "answer": "critics",
+      "lineIndex": 45,
+      "position": 12
+    },
+    {
+      "id": 65,
+      "answer": "chance",
+      "lineIndex": 48,
+      "position": 27
+    },
+    {
+      "id": 66,
+      "answer": "webzine",
+      "lineIndex": 52,
+      "position": 37
+    },
+    {
+      "id": 67,
+      "answer": "shoulders",
+      "lineIndex": 54,
+      "position": 21
+    },
+    {
+      "id": 68,
+      "answer": "approve",
+      "lineIndex": 55,
+      "position": 6
+    },
+    {
+      "id": 69,
+      "answer": "single",
+      "lineIndex": 55,
+      "position": 16
+    },
+    {
+      "id": 70,
+      "answer": "webzine",
+      "lineIndex": 56,
+      "position": 37
+    },
+    {
+      "id": 71,
+      "answer": "shoulders",
+      "lineIndex": 58,
+      "position": 21
+    },
+    {
+      "id": 72,
+      "answer": "approve",
+      "lineIndex": 59,
+      "position": 6
+    },
+    {
+      "id": 73,
+      "answer": "single",
+      "lineIndex": 59,
+      "position": 16
+    },
+    {
+      "id": 74,
+      "answer": "La-la-la-la-la-la-la-la",
+      "lineIndex": 65,
+      "position": 1
+    },
+    {
+      "id": 75,
+      "answer": "la-la-la-la-la-la",
+      "lineIndex": 65,
+      "position": 26
+    },
+    {
+      "id": 76,
+      "answer": "Woah-oh-oh",
+      "lineIndex": 66,
+      "position": 1
+    },
+    {
+      "id": 77,
+      "answer": "woah-oh-oh",
+      "lineIndex": 66,
+      "position": 13
+    },
+    {
+      "id": 78,
+      "answer": "La-la-la-la-la-la-la-la",
+      "lineIndex": 67,
+      "position": 1
+    },
+    {
+      "id": 79,
+      "answer": "la-la-la-la-la-la",
+      "lineIndex": 67,
+      "position": 26
+    },
+    {
+      "id": 80,
+      "answer": "Woah-oh-oh",
+      "lineIndex": 68,
+      "position": 1
+    },
+    {
+      "id": 81,
+      "answer": "woah-oh-oh",
+      "lineIndex": 68,
+      "position": 13
+    },
+    {
+      "id": 82,
+      "answer": "record",
+      "lineIndex": 69,
+      "position": 13
+    },
+    {
+      "id": 83,
+      "answer": "weather",
+      "lineIndex": 69,
+      "position": 25
+    },
+    {
+      "id": 84,
+      "answer": "slightly",
+      "lineIndex": 70,
+      "position": 3
+    },
+    {
+      "id": 85,
+      "answer": "sarcastic",
+      "lineIndex": 70,
+      "position": 12
+    },
+    {
+      "id": 86,
+      "answer": "chance",
+      "lineIndex": 70,
+      "position": 34
+    },
+    {
+      "id": 87,
+      "answer": "La-la-la-la-la-la-la-la",
+      "lineIndex": 71,
+      "position": 1
+    },
+    {
+      "id": 88,
+      "answer": "la-la-la-la-la-la",
+      "lineIndex": 71,
+      "position": 26
+    },
+    {
+      "id": 89,
+      "answer": "Woah-oh-oh",
+      "lineIndex": 72,
+      "position": 1
+    },
+    {
+      "id": 90,
+      "answer": "woah-oh-oh",
+      "lineIndex": 72,
+      "position": 13
+    },
+    {
+      "id": 91,
+      "answer": "indifference",
+      "lineIndex": 73,
+      "position": 3
+    },
+    {
+      "id": 92,
+      "answer": "disinterest",
+      "lineIndex": 73,
+      "position": 23
+    },
+    {
+      "id": 93,
+      "answer": "critics",
+      "lineIndex": 74,
+      "position": 12
+    },
+    {
+      "id": 94,
+      "answer": "webzine",
+      "lineIndex": 77,
+      "position": 37
+    },
+    {
+      "id": 95,
+      "answer": "shoulders",
+      "lineIndex": 79,
+      "position": 21
+    },
+    {
+      "id": 96,
+      "answer": "approve",
+      "lineIndex": 80,
+      "position": 6
+    },
+    {
+      "id": 97,
+      "answer": "single",
+      "lineIndex": 80,
+      "position": 16
+    },
+    {
+      "id": 98,
+      "answer": "webzine",
+      "lineIndex": 81,
+      "position": 37
+    },
+    {
+      "id": 99,
+      "answer": "shoulders",
+      "lineIndex": 83,
+      "position": 21
+    },
+    {
+      "id": 100,
+      "answer": "approve",
+      "lineIndex": 84,
+      "position": 6
+    },
+    {
+      "id": 101,
+      "answer": "single",
+      "lineIndex": 84,
+      "position": 16
+    },
+    {
+      "id": 102,
+      "answer": "record",
+      "lineIndex": 87,
+      "position": 13
+    },
+    {
+      "id": 103,
+      "answer": "weather",
+      "lineIndex": 87,
+      "position": 25
+    },
+    {
+      "id": 104,
+      "answer": "slightly",
+      "lineIndex": 88,
+      "position": 3
+    },
+    {
+      "id": 105,
+      "answer": "sarcastic",
+      "lineIndex": 88,
+      "position": 12
+    },
+    {
+      "id": 106,
+      "answer": "chance",
+      "lineIndex": 88,
+      "position": 34
+    },
+    {
+      "id": 107,
+      "answer": "indifference",
+      "lineIndex": 89,
+      "position": 3
+    },
+    {
+      "id": 108,
+      "answer": "disinterest",
+      "lineIndex": 89,
+      "position": 23
+    },
+    {
+      "id": 109,
+      "answer": "critics",
+      "lineIndex": 90,
+      "position": 12
+    }
+  ],
+  "metadata": {
+    "originalFile": "/Users/cuongluong/Desktop/lyricsiq/src/data/lyrics/london-beckoned-songs.json",
+    "generatedAt": "2025-10-16T03:21:48.400Z",
+    "strategy": "important",
+    "totalBlanks": 110,
+    "imageUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.999x999x1.png",
+    "thumbnailUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.300x300x1.png",
+    "url": "https://genius.com/Panic-at-the-disco-london-beckoned-songs-about-money-written-by-machines-lyrics",
+    "releaseDate": "September 27, 2005"
+  }
+}

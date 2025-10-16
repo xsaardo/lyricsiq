@@ -1,0 +1,439 @@
+{
+  "id": 334887,
+  "title": "Nails for Breakfast, Tacks for Snacks",
+  "artist": "Panic! at the Disco",
+  "difficulty": "hard",
+  "lyrics": "[Verse 1]\nWatch your mouth, oh, oh, oh\n_____0_____ your _____1_____ is _____2_____ _____3_____\nThat you just might _____4_____ your _____5_____\nI'm sure you would want to give up the ghost\nWith just a _____6_____ more poise than that\nOr was it God who _____7_____ in these _____8_____\n_____9_____ late? Oh no, he _____10_____ in\nOr was it God who _____11_____ in these _____12_____\n_____13_____ late? Oh no, he _____14_____ in\n\n[Pre-Chorus]\nThe _____15_____ is\nA _____16_____ _____17_____ _____18_____ where _____19_____ a cut above all the rest\nSick and sad _____20_____ on first name basis\nWith all the top _____21_____\n\n[Chorus]\n_____22_____ pills\nTo _____23_____ the _____24_____, to _____25_____ the pills\nYou know you _____26_____\nTake it a day at a time\n\n[Verse 2]\n_____27_____ when you _____28_____ _____29_____ _____30_____\nTo the _____31_____ on the line\nAnd with the way _____32_____ been _____33_____\nEvery word gets you a step _____34_____ to hell\n_____35_____ when you _____36_____ _____37_____ _____38_____\nTo the _____39_____ on the line\nAnd with the way _____40_____ been _____41_____\nEvery word gets you a step _____42_____ to hell\n\n\n\n\n[Chorus]\n_____43_____ pills\nTo _____44_____ the _____45_____, to _____46_____ the pills\nYou know you _____47_____\nTake it a day at a time\n_____48_____ pills\nTo _____49_____ the _____50_____, to _____51_____ the pills\nYou know you _____52_____\nTake it a day at a time\n\n[Bridge]\nI am\nAlone in this bed, house, and head\nAnd she never fixes this\nBut at least she\nI am\nAlone in this bed, ooh\nShe never fixes this\nBut at least she\n\n[Chorus]\n_____53_____ pills\nTo _____54_____ the _____55_____, to _____56_____ the pills\nYou know you _____57_____\nTake it a day at a time\n_____58_____ pills\nTo _____59_____ the _____60_____, to _____61_____ the pills\nYou know you _____62_____\nTake it a day at a time\n\n\n\n\n[Outro]\nThe _____63_____ is\nA _____64_____ _____65_____ _____66_____ where _____67_____ a cut above all the rest\nSick and sad _____68_____ on first name basis\nWith all the top _____69_____",
+  "blanks": [
+    {
+      "id": 0,
+      "answer": "Because",
+      "lineIndex": 2,
+      "position": 0
+    },
+    {
+      "id": 1,
+      "answer": "speech",
+      "lineIndex": 2,
+      "position": 13
+    },
+    {
+      "id": 2,
+      "answer": "slurred",
+      "lineIndex": 2,
+      "position": 23
+    },
+    {
+      "id": 3,
+      "answer": "enough",
+      "lineIndex": 2,
+      "position": 31
+    },
+    {
+      "id": 4,
+      "answer": "swallow",
+      "lineIndex": 3,
+      "position": 20
+    },
+    {
+      "id": 5,
+      "answer": "tongue",
+      "lineIndex": 3,
+      "position": 33
+    },
+    {
+      "id": 6,
+      "answer": "little",
+      "lineIndex": 5,
+      "position": 12
+    },
+    {
+      "id": 7,
+      "answer": "chokes",
+      "lineIndex": 6,
+      "position": 18
+    },
+    {
+      "id": 8,
+      "answer": "situations",
+      "lineIndex": 6,
+      "position": 34
+    },
+    {
+      "id": 9,
+      "answer": "Running",
+      "lineIndex": 7,
+      "position": 0
+    },
+    {
+      "id": 10,
+      "answer": "called",
+      "lineIndex": 7,
+      "position": 24
+    },
+    {
+      "id": 11,
+      "answer": "chokes",
+      "lineIndex": 8,
+      "position": 18
+    },
+    {
+      "id": 12,
+      "answer": "situations",
+      "lineIndex": 8,
+      "position": 34
+    },
+    {
+      "id": 13,
+      "answer": "Running",
+      "lineIndex": 9,
+      "position": 0
+    },
+    {
+      "id": 14,
+      "answer": "called",
+      "lineIndex": 9,
+      "position": 24
+    },
+    {
+      "id": 15,
+      "answer": "hospice",
+      "lineIndex": 12,
+      "position": 4
+    },
+    {
+      "id": 16,
+      "answer": "relaxing",
+      "lineIndex": 13,
+      "position": 2
+    },
+    {
+      "id": 17,
+      "answer": "weekend",
+      "lineIndex": 13,
+      "position": 11
+    },
+    {
+      "id": 18,
+      "answer": "getaway",
+      "lineIndex": 13,
+      "position": 19
+    },
+    {
+      "id": 19,
+      "answer": "you're",
+      "lineIndex": 13,
+      "position": 33
+    },
+    {
+      "id": 20,
+      "answer": "patients",
+      "lineIndex": 14,
+      "position": 13
+    },
+    {
+      "id": 21,
+      "answer": "physicians",
+      "lineIndex": 15,
+      "position": 17
+    },
+    {
+      "id": 22,
+      "answer": "Prescribed",
+      "lineIndex": 18,
+      "position": 0
+    },
+    {
+      "id": 23,
+      "answer": "offset",
+      "lineIndex": 19,
+      "position": 3
+    },
+    {
+      "id": 24,
+      "answer": "shakes",
+      "lineIndex": 19,
+      "position": 14
+    },
+    {
+      "id": 25,
+      "answer": "offset",
+      "lineIndex": 19,
+      "position": 25
+    },
+    {
+      "id": 26,
+      "answer": "should",
+      "lineIndex": 20,
+      "position": 13
+    },
+    {
+      "id": 27,
+      "answer": "That's",
+      "lineIndex": 24,
+      "position": 0
+    },
+    {
+      "id": 28,
+      "answer": "st-st-stutter",
+      "lineIndex": 24,
+      "position": 16
+    },
+    {
+      "id": 29,
+      "answer": "something",
+      "lineIndex": 24,
+      "position": 30
+    },
+    {
+      "id": 30,
+      "answer": "profound",
+      "lineIndex": 24,
+      "position": 40
+    },
+    {
+      "id": 31,
+      "answer": "support",
+      "lineIndex": 25,
+      "position": 7
+    },
+    {
+      "id": 32,
+      "answer": "you've",
+      "lineIndex": 26,
+      "position": 17
+    },
+    {
+      "id": 33,
+      "answer": "talking",
+      "lineIndex": 26,
+      "position": 29
+    },
+    {
+      "id": 34,
+      "answer": "closer",
+      "lineIndex": 27,
+      "position": 27
+    },
+    {
+      "id": 35,
+      "answer": "That's",
+      "lineIndex": 28,
+      "position": 0
+    },
+    {
+      "id": 36,
+      "answer": "st-st-stutter",
+      "lineIndex": 28,
+      "position": 16
+    },
+    {
+      "id": 37,
+      "answer": "something",
+      "lineIndex": 28,
+      "position": 30
+    },
+    {
+      "id": 38,
+      "answer": "profound",
+      "lineIndex": 28,
+      "position": 40
+    },
+    {
+      "id": 39,
+      "answer": "support",
+      "lineIndex": 29,
+      "position": 7
+    },
+    {
+      "id": 40,
+      "answer": "you've",
+      "lineIndex": 30,
+      "position": 17
+    },
+    {
+      "id": 41,
+      "answer": "talking",
+      "lineIndex": 30,
+      "position": 29
+    },
+    {
+      "id": 42,
+      "answer": "closer",
+      "lineIndex": 31,
+      "position": 27
+    },
+    {
+      "id": 43,
+      "answer": "Prescribed",
+      "lineIndex": 37,
+      "position": 0
+    },
+    {
+      "id": 44,
+      "answer": "offset",
+      "lineIndex": 38,
+      "position": 3
+    },
+    {
+      "id": 45,
+      "answer": "shakes",
+      "lineIndex": 38,
+      "position": 14
+    },
+    {
+      "id": 46,
+      "answer": "offset",
+      "lineIndex": 38,
+      "position": 25
+    },
+    {
+      "id": 47,
+      "answer": "should",
+      "lineIndex": 39,
+      "position": 13
+    },
+    {
+      "id": 48,
+      "answer": "Prescribed",
+      "lineIndex": 41,
+      "position": 0
+    },
+    {
+      "id": 49,
+      "answer": "offset",
+      "lineIndex": 42,
+      "position": 3
+    },
+    {
+      "id": 50,
+      "answer": "shakes",
+      "lineIndex": 42,
+      "position": 14
+    },
+    {
+      "id": 51,
+      "answer": "offset",
+      "lineIndex": 42,
+      "position": 25
+    },
+    {
+      "id": 52,
+      "answer": "should",
+      "lineIndex": 43,
+      "position": 13
+    },
+    {
+      "id": 53,
+      "answer": "Prescribed",
+      "lineIndex": 57,
+      "position": 0
+    },
+    {
+      "id": 54,
+      "answer": "offset",
+      "lineIndex": 58,
+      "position": 3
+    },
+    {
+      "id": 55,
+      "answer": "shakes",
+      "lineIndex": 58,
+      "position": 14
+    },
+    {
+      "id": 56,
+      "answer": "offset",
+      "lineIndex": 58,
+      "position": 25
+    },
+    {
+      "id": 57,
+      "answer": "should",
+      "lineIndex": 59,
+      "position": 13
+    },
+    {
+      "id": 58,
+      "answer": "Prescribed",
+      "lineIndex": 61,
+      "position": 0
+    },
+    {
+      "id": 59,
+      "answer": "offset",
+      "lineIndex": 62,
+      "position": 3
+    },
+    {
+      "id": 60,
+      "answer": "shakes",
+      "lineIndex": 62,
+      "position": 14
+    },
+    {
+      "id": 61,
+      "answer": "offset",
+      "lineIndex": 62,
+      "position": 25
+    },
+    {
+      "id": 62,
+      "answer": "should",
+      "lineIndex": 63,
+      "position": 13
+    },
+    {
+      "id": 63,
+      "answer": "hospice",
+      "lineIndex": 70,
+      "position": 4
+    },
+    {
+      "id": 64,
+      "answer": "relaxing",
+      "lineIndex": 71,
+      "position": 2
+    },
+    {
+      "id": 65,
+      "answer": "weekend",
+      "lineIndex": 71,
+      "position": 11
+    },
+    {
+      "id": 66,
+      "answer": "getaway",
+      "lineIndex": 71,
+      "position": 19
+    },
+    {
+      "id": 67,
+      "answer": "you're",
+      "lineIndex": 71,
+      "position": 33
+    },
+    {
+      "id": 68,
+      "answer": "patients",
+      "lineIndex": 72,
+      "position": 13
+    },
+    {
+      "id": 69,
+      "answer": "physicians",
+      "lineIndex": 73,
+      "position": 17
+    }
+  ],
+  "metadata": {
+    "originalFile": "/Users/cuongluong/Desktop/lyricsiq/src/data/lyrics/nails-for-breakfast.json",
+    "generatedAt": "2025-10-16T03:22:06.814Z",
+    "strategy": "important",
+    "totalBlanks": 70,
+    "imageUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.999x999x1.png",
+    "thumbnailUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.300x300x1.png",
+    "url": "https://genius.com/Panic-at-the-disco-nails-for-breakfast-tacks-for-snacks-lyrics",
+    "releaseDate": "September 27, 2005"
+  }
+}

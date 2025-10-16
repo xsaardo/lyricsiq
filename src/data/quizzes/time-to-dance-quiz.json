@@ -1,0 +1,427 @@
+{
+  "id": 209581,
+  "title": "Time to Dance",
+  "artist": "Panic! at the Disco",
+  "difficulty": "hard",
+  "lyrics": "[Verse 1]\nWell, she's not _____0_____\nOn the _____1_____ floor just for the _____2_____\n'Cause _____3_____ just _____4_____...ly odd\nWell, she sure is gonna get it\n_____5_____ the _____6_____: _____7_____ _____8_____ line the walls\nNow, the walls line the _____9_____ holes\n\n[Chorus]\nHave some _____10_____, and where is your _____11_____? (Oh, no, no!)\n_____12_____ _____13_____ the _____14_____, _____15_____ the _____16_____ (All wrong)\nHave some _____17_____, and where is your _____18_____? (Oh, no, no!)\n_____19_____ _____20_____ the _____21_____, _____22_____ the _____23_____ (All wrong)\n\n[Refrain]\nGive me envy, give me _____24_____, give me your _____25_____\nGive me envy, give me _____26_____, baby, give me a break!\nWhen I say, \"_____27_____,\" you say, \"_____28_____\"\n_____29_____ _____30_____! _____31_____ _____32_____!\n\n[Verse 2]\nShe _____33_____ _____34_____ this role\nBut _____35_____ play it and make it _____36_____ so\nYou cry, you cry (Give me a break)\nBut they _____37_____ it from the tears and the teeth\nRight down to the blood at her feet\nBoys will be boys, hiding in _____38_____\nAnd _____39_____ _____40_____ Dreams (Give me a break)\n\n\n\n\n[Chorus]\nHave some _____41_____, and where is your _____42_____? (Oh, no, no!)\nYou're _____43_____ the _____44_____, _____45_____ the _____46_____ (All wrong)\nHave some _____47_____, and where is your _____48_____? (Oh, no, no!)\nYou're _____49_____ the _____50_____, _____51_____ the _____52_____ (All wrong)\n\n[Bridge]\nCome on, this is _____53_____ \"photo op,\" op, come on, come on\nThis is _____54_____, this is _____55_____, this is _____56_____ \"photo op\"\nBoys will be boys, baby, boys will be boys\nBoys will be boys, baby, boys will be boys\n\n[Refrain]\nGive me envy, give me malice, give me your _____57_____\nGive me envy, give me malice, baby, give me a break!\nWhen I say, \"_____58_____,\" you say, \"_____59_____\"\n_____60_____ _____61_____! _____62_____ _____63_____!\n\n[Outro]\nBoys will be boys, hiding in _____64_____\nAnd boys will be boys\nBoys will be boys, hiding in _____65_____\nAnd _____66_____ _____67_____ Dreams",
+  "blanks": [
+    {
+      "id": 0,
+      "answer": "bleeding",
+      "lineIndex": 1,
+      "position": 16
+    },
+    {
+      "id": 1,
+      "answer": "ballroom",
+      "lineIndex": 2,
+      "position": 7
+    },
+    {
+      "id": 2,
+      "answer": "attention",
+      "lineIndex": 2,
+      "position": 35
+    },
+    {
+      "id": 3,
+      "answer": "that's",
+      "lineIndex": 3,
+      "position": 7
+    },
+    {
+      "id": 4,
+      "answer": "ridiculous",
+      "lineIndex": 3,
+      "position": 19
+    },
+    {
+      "id": 5,
+      "answer": "Here's",
+      "lineIndex": 5,
+      "position": 0
+    },
+    {
+      "id": 6,
+      "answer": "setting",
+      "lineIndex": 5,
+      "position": 11
+    },
+    {
+      "id": 7,
+      "answer": "fashion",
+      "lineIndex": 5,
+      "position": 20
+    },
+    {
+      "id": 8,
+      "answer": "magazines",
+      "lineIndex": 5,
+      "position": 28
+    },
+    {
+      "id": 9,
+      "answer": "bullet",
+      "lineIndex": 6,
+      "position": 24
+    },
+    {
+      "id": 10,
+      "answer": "composure",
+      "lineIndex": 9,
+      "position": 10
+    },
+    {
+      "id": 11,
+      "answer": "posture",
+      "lineIndex": 9,
+      "position": 39
+    },
+    {
+      "id": 12,
+      "answer": "You're",
+      "lineIndex": 10,
+      "position": 0
+    },
+    {
+      "id": 13,
+      "answer": "pulling",
+      "lineIndex": 10,
+      "position": 7
+    },
+    {
+      "id": 14,
+      "answer": "trigger",
+      "lineIndex": 10,
+      "position": 19
+    },
+    {
+      "id": 15,
+      "answer": "pulling",
+      "lineIndex": 10,
+      "position": 28
+    },
+    {
+      "id": 16,
+      "answer": "trigger",
+      "lineIndex": 10,
+      "position": 40
+    },
+    {
+      "id": 17,
+      "answer": "composure",
+      "lineIndex": 11,
+      "position": 10
+    },
+    {
+      "id": 18,
+      "answer": "posture",
+      "lineIndex": 11,
+      "position": 39
+    },
+    {
+      "id": 19,
+      "answer": "You're",
+      "lineIndex": 12,
+      "position": 0
+    },
+    {
+      "id": 20,
+      "answer": "pulling",
+      "lineIndex": 12,
+      "position": 7
+    },
+    {
+      "id": 21,
+      "answer": "trigger",
+      "lineIndex": 12,
+      "position": 19
+    },
+    {
+      "id": 22,
+      "answer": "pulling",
+      "lineIndex": 12,
+      "position": 28
+    },
+    {
+      "id": 23,
+      "answer": "trigger",
+      "lineIndex": 12,
+      "position": 40
+    },
+    {
+      "id": 24,
+      "answer": "malice",
+      "lineIndex": 15,
+      "position": 22
+    },
+    {
+      "id": 25,
+      "answer": "attention",
+      "lineIndex": 15,
+      "position": 43
+    },
+    {
+      "id": 26,
+      "answer": "malice",
+      "lineIndex": 16,
+      "position": 22
+    },
+    {
+      "id": 27,
+      "answer": "Shotgun",
+      "lineIndex": 17,
+      "position": 13
+    },
+    {
+      "id": 28,
+      "answer": "Wedding",
+      "lineIndex": 17,
+      "position": 33
+    },
+    {
+      "id": 29,
+      "answer": "Shotgun",
+      "lineIndex": 18,
+      "position": 0
+    },
+    {
+      "id": 30,
+      "answer": "wedding",
+      "lineIndex": 18,
+      "position": 8
+    },
+    {
+      "id": 31,
+      "answer": "Shotgun",
+      "lineIndex": 18,
+      "position": 17
+    },
+    {
+      "id": 32,
+      "answer": "wedding",
+      "lineIndex": 18,
+      "position": 25
+    },
+    {
+      "id": 33,
+      "answer": "didn't",
+      "lineIndex": 21,
+      "position": 4
+    },
+    {
+      "id": 34,
+      "answer": "choose",
+      "lineIndex": 21,
+      "position": 11
+    },
+    {
+      "id": 35,
+      "answer": "she'll",
+      "lineIndex": 22,
+      "position": 4
+    },
+    {
+      "id": 36,
+      "answer": "sincere",
+      "lineIndex": 22,
+      "position": 31
+    },
+    {
+      "id": 37,
+      "answer": "believe",
+      "lineIndex": 24,
+      "position": 9
+    },
+    {
+      "id": 38,
+      "answer": "estrogen",
+      "lineIndex": 26,
+      "position": 29
+    },
+    {
+      "id": 39,
+      "answer": "wearing",
+      "lineIndex": 27,
+      "position": 4
+    },
+    {
+      "id": 40,
+      "answer": "Aubergine",
+      "lineIndex": 27,
+      "position": 12
+    },
+    {
+      "id": 41,
+      "answer": "composure",
+      "lineIndex": 33,
+      "position": 10
+    },
+    {
+      "id": 42,
+      "answer": "posture",
+      "lineIndex": 33,
+      "position": 39
+    },
+    {
+      "id": 43,
+      "answer": "pulling",
+      "lineIndex": 34,
+      "position": 7
+    },
+    {
+      "id": 44,
+      "answer": "trigger",
+      "lineIndex": 34,
+      "position": 19
+    },
+    {
+      "id": 45,
+      "answer": "pulling",
+      "lineIndex": 34,
+      "position": 28
+    },
+    {
+      "id": 46,
+      "answer": "trigger",
+      "lineIndex": 34,
+      "position": 40
+    },
+    {
+      "id": 47,
+      "answer": "composure",
+      "lineIndex": 35,
+      "position": 10
+    },
+    {
+      "id": 48,
+      "answer": "posture",
+      "lineIndex": 35,
+      "position": 39
+    },
+    {
+      "id": 49,
+      "answer": "pulling",
+      "lineIndex": 36,
+      "position": 7
+    },
+    {
+      "id": 50,
+      "answer": "trigger",
+      "lineIndex": 36,
+      "position": 19
+    },
+    {
+      "id": 51,
+      "answer": "pulling",
+      "lineIndex": 36,
+      "position": 28
+    },
+    {
+      "id": 52,
+      "answer": "trigger",
+      "lineIndex": 36,
+      "position": 40
+    },
+    {
+      "id": 53,
+      "answer": "screaming",
+      "lineIndex": 39,
+      "position": 17
+    },
+    {
+      "id": 54,
+      "answer": "screaming",
+      "lineIndex": 40,
+      "position": 8
+    },
+    {
+      "id": 55,
+      "answer": "screaming",
+      "lineIndex": 40,
+      "position": 27
+    },
+    {
+      "id": 56,
+      "answer": "screaming",
+      "lineIndex": 40,
+      "position": 46
+    },
+    {
+      "id": 57,
+      "answer": "attention",
+      "lineIndex": 45,
+      "position": 43
+    },
+    {
+      "id": 58,
+      "answer": "Shotgun",
+      "lineIndex": 47,
+      "position": 13
+    },
+    {
+      "id": 59,
+      "answer": "Wedding",
+      "lineIndex": 47,
+      "position": 33
+    },
+    {
+      "id": 60,
+      "answer": "Shotgun",
+      "lineIndex": 48,
+      "position": 0
+    },
+    {
+      "id": 61,
+      "answer": "wedding",
+      "lineIndex": 48,
+      "position": 8
+    },
+    {
+      "id": 62,
+      "answer": "Shotgun",
+      "lineIndex": 48,
+      "position": 17
+    },
+    {
+      "id": 63,
+      "answer": "wedding",
+      "lineIndex": 48,
+      "position": 25
+    },
+    {
+      "id": 64,
+      "answer": "estrogen",
+      "lineIndex": 51,
+      "position": 29
+    },
+    {
+      "id": 65,
+      "answer": "estrogen",
+      "lineIndex": 53,
+      "position": 29
+    },
+    {
+      "id": 66,
+      "answer": "wearing",
+      "lineIndex": 54,
+      "position": 4
+    },
+    {
+      "id": 67,
+      "answer": "Aubergine",
+      "lineIndex": 54,
+      "position": 12
+    }
+  ],
+  "metadata": {
+    "originalFile": "/Users/cuongluong/Desktop/lyricsiq/src/data/lyrics/time-to-dance.json",
+    "generatedAt": "2025-10-16T03:22:34.855Z",
+    "strategy": "important",
+    "totalBlanks": 68,
+    "imageUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.999x999x1.png",
+    "thumbnailUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.300x300x1.png",
+    "url": "https://genius.com/Panic-at-the-disco-time-to-dance-lyrics",
+    "releaseDate": "September 27, 2005"
+  }
+}

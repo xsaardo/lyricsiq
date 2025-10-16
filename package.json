@@ -1,0 +1,31 @@
+{
+  "name": "lyricsiq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "predev": "node scripts/generate-quiz-index.js",
+    "dev": "vite",
+    "prebuild": "node scripts/generate-quiz-index.js",
+    "build": "vite build",
+    "preview": "vite preview",
+    "index": "node scripts/generate-quiz-index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.14",
+    "@vitejs/plugin-react": "^5.0.4",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "tailwindcss": "^4.1.14",
+    "vite": "^7.1.10"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2"
+  }
+}

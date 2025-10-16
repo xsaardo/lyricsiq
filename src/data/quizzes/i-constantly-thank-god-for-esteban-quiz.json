@@ -1,0 +1,529 @@
+{
+  "id": 335469,
+  "title": "I Constantly Thank God for Esteban",
+  "artist": "Panic! at the Disco",
+  "difficulty": "hard",
+  "lyrics": "[Verse 1]\nGive us this day our _____0_____ dose of faux _____1_____\n_____2_____ our sins, _____3_____ at the _____4_____\nWith _____5_____ _____6_____ _____7_____ faux _____8_____\n_____9_____ I am a _____10_____ _____11_____ _____12_____, and _____13_____ be thy _____14_____\nSo, _____15_____, if _____16_____ _____17_____ _____18_____\nFor God _____19_____, _____20_____ with _____21_____!\n\n[Chorus]\n_____22_____ up the band! _____23_____, the _____24_____ is _____25_____\nCome, _____26_____, _____27_____ sing it like you mean it\nNo, _____28_____ you get it? _____29_____ you get it? Now, _____30_____ you move\n_____31_____ up the band! _____32_____, the _____33_____ is _____34_____\nCome, _____35_____, _____36_____ sing it like you mean it\nNo, _____37_____ you get it? _____38_____ you get it? Now, _____39_____ you move\n\n[Post-Chorus]\nJust stay _____40_____ I can see you, _____41_____ the _____42_____!\n...We sure are in for a show _____43_____!\n\n[Verse 2]\nIn this _____44_____ _____45_____, _____46_____ _____47_____ by two _____48_____ of _____49_____\nWe've got the _____50_____ _____51_____, a _____52_____ _____53_____\nAnd I, for one, can see no blood\nFrom the _____54_____ and the _____55_____ you _____56_____ slit\nAnd I, for one, won't stand for this\nIf this scene were a _____57_____, you'd all be _____58_____\n\n\n\n\n[Chorus]\n_____59_____ up the band! _____60_____, the _____61_____ is _____62_____\nCome, _____63_____, let's sing it like you mean it\nNo, don't you get it? Don't you get it? Now, don't you move\n_____64_____ up the band! _____65_____, the _____66_____ is _____67_____\nCome, _____68_____, let's sing it like you mean it\nNo, don't you get it? Don't you get it? Now, don't you move\n\n[Post-Chorus]\nJust stay where I can see you, douse the _____69_____\n...We sure are in for a show _____70_____!\nJust stay where I can see you, douse the _____71_____!\n...We sure are in for a show _____72_____!\nStay where I can see you, douse the _____73_____!\n\n[Chorus]\n_____74_____ up the band! _____75_____, the _____76_____ is _____77_____\nCome, _____78_____, let's sing it like you mean it\nNo, don't you get it? Don't you get it? Now, don't you move\n_____79_____ up the band! _____80_____, the _____81_____ is _____82_____\nCome, _____83_____, let's sing it like you mean it\nNo, don't you get it? Don't you get it? Now, don't you move\nDon't you move, don't you move... _____84_____ up the band!",
+  "blanks": [
+    {
+      "id": 0,
+      "answer": "daily",
+      "lineIndex": 1,
+      "position": 21
+    },
+    {
+      "id": 1,
+      "answer": "affliction",
+      "lineIndex": 1,
+      "position": 40
+    },
+    {
+      "id": 2,
+      "answer": "Forgive",
+      "lineIndex": 2,
+      "position": 0
+    },
+    {
+      "id": 3,
+      "answer": "forged",
+      "lineIndex": 2,
+      "position": 18
+    },
+    {
+      "id": 4,
+      "answer": "pulpit",
+      "lineIndex": 2,
+      "position": 32
+    },
+    {
+      "id": 5,
+      "answer": "forked",
+      "lineIndex": 3,
+      "position": 5
+    },
+    {
+      "id": 6,
+      "answer": "tongues",
+      "lineIndex": 3,
+      "position": 12
+    },
+    {
+      "id": 7,
+      "answer": "selling",
+      "lineIndex": 3,
+      "position": 20
+    },
+    {
+      "id": 8,
+      "answer": "sermons",
+      "lineIndex": 3,
+      "position": 33
+    },
+    {
+      "id": 9,
+      "answer": "Because",
+      "lineIndex": 4,
+      "position": 0
+    },
+    {
+      "id": 10,
+      "answer": "new-wave",
+      "lineIndex": 4,
+      "position": 15
+    },
+    {
+      "id": 11,
+      "answer": "gospel",
+      "lineIndex": 4,
+      "position": 24
+    },
+    {
+      "id": 12,
+      "answer": "sharp",
+      "lineIndex": 4,
+      "position": 31
+    },
+    {
+      "id": 13,
+      "answer": "you'll",
+      "lineIndex": 4,
+      "position": 42
+    },
+    {
+      "id": 14,
+      "answer": "witness",
+      "lineIndex": 4,
+      "position": 56
+    },
+    {
+      "id": 15,
+      "answer": "gentlemen",
+      "lineIndex": 5,
+      "position": 4
+    },
+    {
+      "id": 16,
+      "answer": "you're",
+      "lineIndex": 5,
+      "position": 18
+    },
+    {
+      "id": 17,
+      "answer": "gonna",
+      "lineIndex": 5,
+      "position": 25
+    },
+    {
+      "id": 18,
+      "answer": "preach",
+      "lineIndex": 5,
+      "position": 31
+    },
+    {
+      "id": 19,
+      "answer": "sakes",
+      "lineIndex": 6,
+      "position": 8
+    },
+    {
+      "id": 20,
+      "answer": "preach",
+      "lineIndex": 6,
+      "position": 15
+    },
+    {
+      "id": 21,
+      "answer": "conviction",
+      "lineIndex": 6,
+      "position": 27
+    },
+    {
+      "id": 22,
+      "answer": "Strike",
+      "lineIndex": 9,
+      "position": 0
+    },
+    {
+      "id": 23,
+      "answer": "Whoa-oh",
+      "lineIndex": 9,
+      "position": 20
+    },
+    {
+      "id": 24,
+      "answer": "conductor",
+      "lineIndex": 9,
+      "position": 33
+    },
+    {
+      "id": 25,
+      "answer": "beckoning",
+      "lineIndex": 9,
+      "position": 46
+    },
+    {
+      "id": 26,
+      "answer": "congregation",
+      "lineIndex": 10,
+      "position": 6
+    },
+    {
+      "id": 27,
+      "answer": "let's",
+      "lineIndex": 10,
+      "position": 20
+    },
+    {
+      "id": 28,
+      "answer": "don't",
+      "lineIndex": 11,
+      "position": 4
+    },
+    {
+      "id": 29,
+      "answer": "Don't",
+      "lineIndex": 11,
+      "position": 22
+    },
+    {
+      "id": 30,
+      "answer": "don't",
+      "lineIndex": 11,
+      "position": 45
+    },
+    {
+      "id": 31,
+      "answer": "Strike",
+      "lineIndex": 12,
+      "position": 0
+    },
+    {
+      "id": 32,
+      "answer": "Whoa-oh",
+      "lineIndex": 12,
+      "position": 20
+    },
+    {
+      "id": 33,
+      "answer": "conductor",
+      "lineIndex": 12,
+      "position": 33
+    },
+    {
+      "id": 34,
+      "answer": "beckoning",
+      "lineIndex": 12,
+      "position": 46
+    },
+    {
+      "id": 35,
+      "answer": "congregation",
+      "lineIndex": 13,
+      "position": 6
+    },
+    {
+      "id": 36,
+      "answer": "let's",
+      "lineIndex": 13,
+      "position": 20
+    },
+    {
+      "id": 37,
+      "answer": "don't",
+      "lineIndex": 14,
+      "position": 4
+    },
+    {
+      "id": 38,
+      "answer": "Don't",
+      "lineIndex": 14,
+      "position": 22
+    },
+    {
+      "id": 39,
+      "answer": "don't",
+      "lineIndex": 14,
+      "position": 45
+    },
+    {
+      "id": 40,
+      "answer": "where",
+      "lineIndex": 17,
+      "position": 10
+    },
+    {
+      "id": 41,
+      "answer": "douse",
+      "lineIndex": 17,
+      "position": 31
+    },
+    {
+      "id": 42,
+      "answer": "lights",
+      "lineIndex": 17,
+      "position": 41
+    },
+    {
+      "id": 43,
+      "answer": "tonight",
+      "lineIndex": 18,
+      "position": 29
+    },
+    {
+      "id": 44,
+      "answer": "little",
+      "lineIndex": 21,
+      "position": 8
+    },
+    {
+      "id": 45,
+      "answer": "number",
+      "lineIndex": 21,
+      "position": 15
+    },
+    {
+      "id": 46,
+      "answer": "we're",
+      "lineIndex": 21,
+      "position": 23
+    },
+    {
+      "id": 47,
+      "answer": "graced",
+      "lineIndex": 21,
+      "position": 29
+    },
+    {
+      "id": 48,
+      "answer": "displays",
+      "lineIndex": 21,
+      "position": 43
+    },
+    {
+      "id": 49,
+      "answer": "character",
+      "lineIndex": 21,
+      "position": 55
+    },
+    {
+      "id": 50,
+      "answer": "gunslinger",
+      "lineIndex": 22,
+      "position": 14
+    },
+    {
+      "id": 51,
+      "answer": "extraordinaire",
+      "lineIndex": 22,
+      "position": 25
+    },
+    {
+      "id": 52,
+      "answer": "walking",
+      "lineIndex": 22,
+      "position": 43
+    },
+    {
+      "id": 53,
+      "answer": "contradiction",
+      "lineIndex": 22,
+      "position": 51
+    },
+    {
+      "id": 54,
+      "answer": "hearts",
+      "lineIndex": 24,
+      "position": 9
+    },
+    {
+      "id": 55,
+      "answer": "wrists",
+      "lineIndex": 24,
+      "position": 24
+    },
+    {
+      "id": 56,
+      "answer": "allegedly",
+      "lineIndex": 24,
+      "position": 35
+    },
+    {
+      "id": 57,
+      "answer": "parish",
+      "lineIndex": 26,
+      "position": 21
+    },
+    {
+      "id": 58,
+      "answer": "condemned",
+      "lineIndex": 26,
+      "position": 42
+    },
+    {
+      "id": 59,
+      "answer": "Strike",
+      "lineIndex": 32,
+      "position": 0
+    },
+    {
+      "id": 60,
+      "answer": "Whoa-oh",
+      "lineIndex": 32,
+      "position": 20
+    },
+    {
+      "id": 61,
+      "answer": "conductor",
+      "lineIndex": 32,
+      "position": 33
+    },
+    {
+      "id": 62,
+      "answer": "beckoning",
+      "lineIndex": 32,
+      "position": 46
+    },
+    {
+      "id": 63,
+      "answer": "congregation",
+      "lineIndex": 33,
+      "position": 6
+    },
+    {
+      "id": 64,
+      "answer": "Strike",
+      "lineIndex": 35,
+      "position": 0
+    },
+    {
+      "id": 65,
+      "answer": "Whoa-oh",
+      "lineIndex": 35,
+      "position": 20
+    },
+    {
+      "id": 66,
+      "answer": "conductor",
+      "lineIndex": 35,
+      "position": 33
+    },
+    {
+      "id": 67,
+      "answer": "beckoning",
+      "lineIndex": 35,
+      "position": 46
+    },
+    {
+      "id": 68,
+      "answer": "congregation",
+      "lineIndex": 36,
+      "position": 6
+    },
+    {
+      "id": 69,
+      "answer": "lights",
+      "lineIndex": 40,
+      "position": 41
+    },
+    {
+      "id": 70,
+      "answer": "tonight",
+      "lineIndex": 41,
+      "position": 29
+    },
+    {
+      "id": 71,
+      "answer": "lights",
+      "lineIndex": 42,
+      "position": 41
+    },
+    {
+      "id": 72,
+      "answer": "tonight",
+      "lineIndex": 43,
+      "position": 29
+    },
+    {
+      "id": 73,
+      "answer": "lights",
+      "lineIndex": 44,
+      "position": 36
+    },
+    {
+      "id": 74,
+      "answer": "Strike",
+      "lineIndex": 47,
+      "position": 0
+    },
+    {
+      "id": 75,
+      "answer": "Whoa-oh",
+      "lineIndex": 47,
+      "position": 20
+    },
+    {
+      "id": 76,
+      "answer": "conductor",
+      "lineIndex": 47,
+      "position": 33
+    },
+    {
+      "id": 77,
+      "answer": "beckoning",
+      "lineIndex": 47,
+      "position": 46
+    },
+    {
+      "id": 78,
+      "answer": "congregation",
+      "lineIndex": 48,
+      "position": 6
+    },
+    {
+      "id": 79,
+      "answer": "Strike",
+      "lineIndex": 50,
+      "position": 0
+    },
+    {
+      "id": 80,
+      "answer": "Whoa-oh",
+      "lineIndex": 50,
+      "position": 20
+    },
+    {
+      "id": 81,
+      "answer": "conductor",
+      "lineIndex": 50,
+      "position": 33
+    },
+    {
+      "id": 82,
+      "answer": "beckoning",
+      "lineIndex": 50,
+      "position": 46
+    },
+    {
+      "id": 83,
+      "answer": "congregation",
+      "lineIndex": 51,
+      "position": 6
+    },
+    {
+      "id": 84,
+      "answer": "strike",
+      "lineIndex": 53,
+      "position": 34
+    }
+  ],
+  "metadata": {
+    "originalFile": "/Users/cuongluong/Desktop/lyricsiq/src/data/lyrics/i-constantly-thank-god-for-esteban.json",
+    "generatedAt": "2025-10-16T03:23:09.625Z",
+    "strategy": "important",
+    "totalBlanks": 85,
+    "imageUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.999x999x1.png",
+    "thumbnailUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.300x300x1.png",
+    "url": "https://genius.com/Panic-at-the-disco-i-constantly-thank-god-for-esteban-lyrics",
+    "releaseDate": "September 27, 2005"
+  }
+}

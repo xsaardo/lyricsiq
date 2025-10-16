@@ -1,0 +1,655 @@
+{
+  "id": 335410,
+  "title": "Camisado",
+  "artist": "Panic! at the Disco",
+  "difficulty": "hard",
+  "lyrics": "[Intro]\nThe IV and your _____0_____ bed\nThis was no _____1_____; this was a _____2_____ _____3_____ of _____4_____\n\n[Verse]\nThis is the _____5_____ of dead skin on a _____6_____ _____7_____\nThis is the _____8_____ of _____9_____ _____10_____ in a _____11_____\nIt's not so _____12_____ and it's not so _____13_____\nIt sure as hell _____14_____ _____15_____, but we deal, we deal\nThe _____16_____ _____17_____ set in and I'm _____18_____ _____19_____\nThe _____20_____ and _____21_____ is that I _____22_____ I _____23_____ in\nIt's not so _____24_____ and it's not so _____25_____\nAnd it sure as hell _____26_____ _____27_____, but we deal, we deal\n\n[Pre-Chorus]\nJust sit back, just sit back\nJust sit back and _____28_____\nJust sit back, just sit back\nJust sit back and _____29_____ _____30_____\n\n[Chorus]\n_____31_____ take the kid from the _____32_____, take the _____33_____ from the kid\nSit back, _____34_____, sit back, _____35_____ _____36_____ (_____37_____)\n_____38_____ take the kid from the _____39_____, take the _____40_____ from the kid\nJust sit back, just sit back\n\n\n\n\n[Post-Chorus]\n_____41_____ a _____42_____ _____43_____ _____44_____\n_____45_____ a _____46_____ _____47_____ _____48_____\n\n[Verse]\nThis is the _____49_____ of dead skin on a _____50_____ _____51_____\nThis is the scent of _____52_____ wings in a _____53_____\nIt's not so _____54_____ and it's not so _____55_____\nIt sure as hell ain't _____56_____, but we deal, we deal\nThe _____57_____ never set in and I’m _____58_____ where\nThe _____59_____ and _____60_____ is that I _____61_____ I _____62_____ in\nIt’s not so _____63_____ and it's not so _____64_____\nIt sure as hell ain't _____65_____, but we deal, we deal\n\n[Chorus]\nCan't take the kid from the fight, take the fight from the kid\nSit back, relax, sit back, _____66_____ again (_____67_____)\nCan't take the kid from the fight, take the fight from the kid\nJust sit back, just sit back\n\n[Post-Chorus]\nSit back, sit back, relax, _____68_____\nSit back, sit back, _____69_____\nYou can't take the kid out of the fight\n\n[Bridge]\n_____70_____ a _____71_____ _____72_____ _____73_____\nThe _____74_____ and _____75_____ will _____76_____ me what you did when you wake\n_____77_____ _____78_____ your place atop the ICU's hall of fame\nThe _____79_____ _____80_____ you _____81_____ a _____82_____ on the _____83_____ again\n_____84_____ a _____85_____ _____86_____ _____87_____\nThe _____88_____ and _____89_____ will _____90_____ me what you did when you wake\n_____91_____ _____92_____ your place atop the ICU's hall of fame\nThe _____93_____ _____94_____ you _____95_____ a _____96_____ on the _____97_____ again\n\n\n\n\n[Chorus]\nCan't take the kid from the fight, take the fight from the kid\nSit back, relax, sit back, _____98_____ again (_____99_____)\nCan't take the kid from the fight, take the fight from the kid\nJust sit back, just sit back\n\n[Post-Chorus]\nSit back, sit back, relax, _____100_____\nSit back, sit back, _____101_____\nYou can't take the kid out of the fight\n\n[Outro]\nThe IV and your _____102_____ bed\nThis was no _____103_____; this was a _____104_____ chain of _____105_____",
+  "blanks": [
+    {
+      "id": 0,
+      "answer": "hospital",
+      "lineIndex": 1,
+      "position": 16
+    },
+    {
+      "id": 1,
+      "answer": "accident",
+      "lineIndex": 2,
+      "position": 12
+    },
+    {
+      "id": 2,
+      "answer": "therapeutic",
+      "lineIndex": 2,
+      "position": 33
+    },
+    {
+      "id": 3,
+      "answer": "chain",
+      "lineIndex": 2,
+      "position": 45
+    },
+    {
+      "id": 4,
+      "answer": "events",
+      "lineIndex": 2,
+      "position": 54
+    },
+    {
+      "id": 5,
+      "answer": "scent",
+      "lineIndex": 5,
+      "position": 12
+    },
+    {
+      "id": 6,
+      "answer": "linoleum",
+      "lineIndex": 5,
+      "position": 36
+    },
+    {
+      "id": 7,
+      "answer": "floor",
+      "lineIndex": 5,
+      "position": 45
+    },
+    {
+      "id": 8,
+      "answer": "scent",
+      "lineIndex": 6,
+      "position": 12
+    },
+    {
+      "id": 9,
+      "answer": "quarantine",
+      "lineIndex": 6,
+      "position": 21
+    },
+    {
+      "id": 10,
+      "answer": "wings",
+      "lineIndex": 6,
+      "position": 32
+    },
+    {
+      "id": 11,
+      "answer": "hospital",
+      "lineIndex": 6,
+      "position": 43
+    },
+    {
+      "id": 12,
+      "answer": "pleasant",
+      "lineIndex": 7,
+      "position": 12
+    },
+    {
+      "id": 13,
+      "answer": "conventional",
+      "lineIndex": 7,
+      "position": 37
+    },
+    {
+      "id": 14,
+      "answer": "ain't",
+      "lineIndex": 8,
+      "position": 16
+    },
+    {
+      "id": 15,
+      "answer": "normal",
+      "lineIndex": 8,
+      "position": 22
+    },
+    {
+      "id": 16,
+      "answer": "anesthetic",
+      "lineIndex": 9,
+      "position": 4
+    },
+    {
+      "id": 17,
+      "answer": "never",
+      "lineIndex": 9,
+      "position": 15
+    },
+    {
+      "id": 18,
+      "answer": "wondering",
+      "lineIndex": 9,
+      "position": 36
+    },
+    {
+      "id": 19,
+      "answer": "where",
+      "lineIndex": 9,
+      "position": 46
+    },
+    {
+      "id": 20,
+      "answer": "apathy",
+      "lineIndex": 10,
+      "position": 4
+    },
+    {
+      "id": 21,
+      "answer": "urgency",
+      "lineIndex": 10,
+      "position": 15
+    },
+    {
+      "id": 22,
+      "answer": "thought",
+      "lineIndex": 10,
+      "position": 33
+    },
+    {
+      "id": 23,
+      "answer": "phoned",
+      "lineIndex": 10,
+      "position": 43
+    },
+    {
+      "id": 24,
+      "answer": "pleasant",
+      "lineIndex": 11,
+      "position": 12
+    },
+    {
+      "id": 25,
+      "answer": "conventional",
+      "lineIndex": 11,
+      "position": 37
+    },
+    {
+      "id": 26,
+      "answer": "ain't",
+      "lineIndex": 12,
+      "position": 20
+    },
+    {
+      "id": 27,
+      "answer": "normal",
+      "lineIndex": 12,
+      "position": 26
+    },
+    {
+      "id": 28,
+      "answer": "relax",
+      "lineIndex": 16,
+      "position": 18
+    },
+    {
+      "id": 29,
+      "answer": "relapse",
+      "lineIndex": 18,
+      "position": 18
+    },
+    {
+      "id": 30,
+      "answer": "again",
+      "lineIndex": 18,
+      "position": 26
+    },
+    {
+      "id": 31,
+      "answer": "Can't",
+      "lineIndex": 21,
+      "position": 0
+    },
+    {
+      "id": 32,
+      "answer": "fight",
+      "lineIndex": 21,
+      "position": 28
+    },
+    {
+      "id": 33,
+      "answer": "fight",
+      "lineIndex": 21,
+      "position": 44
+    },
+    {
+      "id": 34,
+      "answer": "relax",
+      "lineIndex": 22,
+      "position": 10
+    },
+    {
+      "id": 35,
+      "answer": "relapse",
+      "lineIndex": 22,
+      "position": 27
+    },
+    {
+      "id": 36,
+      "answer": "again",
+      "lineIndex": 22,
+      "position": 35
+    },
+    {
+      "id": 37,
+      "answer": "Ba-ba-ba-doh",
+      "lineIndex": 22,
+      "position": 42
+    },
+    {
+      "id": 38,
+      "answer": "Can't",
+      "lineIndex": 23,
+      "position": 0
+    },
+    {
+      "id": 39,
+      "answer": "fight",
+      "lineIndex": 23,
+      "position": 28
+    },
+    {
+      "id": 40,
+      "answer": "fight",
+      "lineIndex": 23,
+      "position": 44
+    },
+    {
+      "id": 41,
+      "answer": "You're",
+      "lineIndex": 30,
+      "position": 0
+    },
+    {
+      "id": 42,
+      "answer": "regular",
+      "lineIndex": 30,
+      "position": 9
+    },
+    {
+      "id": 43,
+      "answer": "decorated",
+      "lineIndex": 30,
+      "position": 17
+    },
+    {
+      "id": 44,
+      "answer": "emergency",
+      "lineIndex": 30,
+      "position": 27
+    },
+    {
+      "id": 45,
+      "answer": "You're",
+      "lineIndex": 31,
+      "position": 0
+    },
+    {
+      "id": 46,
+      "answer": "regular",
+      "lineIndex": 31,
+      "position": 9
+    },
+    {
+      "id": 47,
+      "answer": "decorated",
+      "lineIndex": 31,
+      "position": 17
+    },
+    {
+      "id": 48,
+      "answer": "emergency",
+      "lineIndex": 31,
+      "position": 27
+    },
+    {
+      "id": 49,
+      "answer": "scent",
+      "lineIndex": 34,
+      "position": 12
+    },
+    {
+      "id": 50,
+      "answer": "linoleum",
+      "lineIndex": 34,
+      "position": 36
+    },
+    {
+      "id": 51,
+      "answer": "floor",
+      "lineIndex": 34,
+      "position": 45
+    },
+    {
+      "id": 52,
+      "answer": "quarantine",
+      "lineIndex": 35,
+      "position": 21
+    },
+    {
+      "id": 53,
+      "answer": "hospital",
+      "lineIndex": 35,
+      "position": 43
+    },
+    {
+      "id": 54,
+      "answer": "pleasant",
+      "lineIndex": 36,
+      "position": 12
+    },
+    {
+      "id": 55,
+      "answer": "conventional",
+      "lineIndex": 36,
+      "position": 37
+    },
+    {
+      "id": 56,
+      "answer": "normal",
+      "lineIndex": 37,
+      "position": 22
+    },
+    {
+      "id": 57,
+      "answer": "anesthetic",
+      "lineIndex": 38,
+      "position": 4
+    },
+    {
+      "id": 58,
+      "answer": "wondering",
+      "lineIndex": 38,
+      "position": 36
+    },
+    {
+      "id": 59,
+      "answer": "apathy",
+      "lineIndex": 39,
+      "position": 4
+    },
+    {
+      "id": 60,
+      "answer": "urgency",
+      "lineIndex": 39,
+      "position": 15
+    },
+    {
+      "id": 61,
+      "answer": "thought",
+      "lineIndex": 39,
+      "position": 33
+    },
+    {
+      "id": 62,
+      "answer": "phoned",
+      "lineIndex": 39,
+      "position": 43
+    },
+    {
+      "id": 63,
+      "answer": "pleasant",
+      "lineIndex": 40,
+      "position": 12
+    },
+    {
+      "id": 64,
+      "answer": "conventional",
+      "lineIndex": 40,
+      "position": 37
+    },
+    {
+      "id": 65,
+      "answer": "normal",
+      "lineIndex": 41,
+      "position": 22
+    },
+    {
+      "id": 66,
+      "answer": "relapse",
+      "lineIndex": 45,
+      "position": 27
+    },
+    {
+      "id": 67,
+      "answer": "Ba-ba-ba-doh",
+      "lineIndex": 45,
+      "position": 42
+    },
+    {
+      "id": 68,
+      "answer": "relapse",
+      "lineIndex": 50,
+      "position": 27
+    },
+    {
+      "id": 69,
+      "answer": "ba-ba-ba-doh",
+      "lineIndex": 51,
+      "position": 20
+    },
+    {
+      "id": 70,
+      "answer": "You're",
+      "lineIndex": 55,
+      "position": 0
+    },
+    {
+      "id": 71,
+      "answer": "regular",
+      "lineIndex": 55,
+      "position": 9
+    },
+    {
+      "id": 72,
+      "answer": "decorated",
+      "lineIndex": 55,
+      "position": 17
+    },
+    {
+      "id": 73,
+      "answer": "emergency",
+      "lineIndex": 55,
+      "position": 27
+    },
+    {
+      "id": 74,
+      "answer": "bruises",
+      "lineIndex": 56,
+      "position": 4
+    },
+    {
+      "id": 75,
+      "answer": "contusions",
+      "lineIndex": 56,
+      "position": 16
+    },
+    {
+      "id": 76,
+      "answer": "remind",
+      "lineIndex": 56,
+      "position": 32
+    },
+    {
+      "id": 77,
+      "answer": "You've",
+      "lineIndex": 57,
+      "position": 0
+    },
+    {
+      "id": 78,
+      "answer": "earned",
+      "lineIndex": 57,
+      "position": 7
+    },
+    {
+      "id": 79,
+      "answer": "camera",
+      "lineIndex": 58,
+      "position": 4
+    },
+    {
+      "id": 80,
+      "answer": "caught",
+      "lineIndex": 58,
+      "position": 11
+    },
+    {
+      "id": 81,
+      "answer": "causing",
+      "lineIndex": 58,
+      "position": 22
+    },
+    {
+      "id": 82,
+      "answer": "commotion",
+      "lineIndex": 58,
+      "position": 32
+    },
+    {
+      "id": 83,
+      "answer": "gurney",
+      "lineIndex": 58,
+      "position": 49
+    },
+    {
+      "id": 84,
+      "answer": "You're",
+      "lineIndex": 59,
+      "position": 0
+    },
+    {
+      "id": 85,
+      "answer": "regular",
+      "lineIndex": 59,
+      "position": 9
+    },
+    {
+      "id": 86,
+      "answer": "decorated",
+      "lineIndex": 59,
+      "position": 17
+    },
+    {
+      "id": 87,
+      "answer": "emergency",
+      "lineIndex": 59,
+      "position": 27
+    },
+    {
+      "id": 88,
+      "answer": "bruises",
+      "lineIndex": 60,
+      "position": 4
+    },
+    {
+      "id": 89,
+      "answer": "contusions",
+      "lineIndex": 60,
+      "position": 16
+    },
+    {
+      "id": 90,
+      "answer": "remind",
+      "lineIndex": 60,
+      "position": 32
+    },
+    {
+      "id": 91,
+      "answer": "You've",
+      "lineIndex": 61,
+      "position": 0
+    },
+    {
+      "id": 92,
+      "answer": "earned",
+      "lineIndex": 61,
+      "position": 7
+    },
+    {
+      "id": 93,
+      "answer": "camera",
+      "lineIndex": 62,
+      "position": 4
+    },
+    {
+      "id": 94,
+      "answer": "caught",
+      "lineIndex": 62,
+      "position": 11
+    },
+    {
+      "id": 95,
+      "answer": "causing",
+      "lineIndex": 62,
+      "position": 22
+    },
+    {
+      "id": 96,
+      "answer": "commotion",
+      "lineIndex": 62,
+      "position": 32
+    },
+    {
+      "id": 97,
+      "answer": "gurney",
+      "lineIndex": 62,
+      "position": 49
+    },
+    {
+      "id": 98,
+      "answer": "relapse",
+      "lineIndex": 69,
+      "position": 27
+    },
+    {
+      "id": 99,
+      "answer": "Ba-ba-ba-doh",
+      "lineIndex": 69,
+      "position": 42
+    },
+    {
+      "id": 100,
+      "answer": "relapse",
+      "lineIndex": 74,
+      "position": 27
+    },
+    {
+      "id": 101,
+      "answer": "ba-ba-ba-doh",
+      "lineIndex": 75,
+      "position": 20
+    },
+    {
+      "id": 102,
+      "answer": "hospital",
+      "lineIndex": 79,
+      "position": 16
+    },
+    {
+      "id": 103,
+      "answer": "accident",
+      "lineIndex": 80,
+      "position": 12
+    },
+    {
+      "id": 104,
+      "answer": "therapeutic",
+      "lineIndex": 80,
+      "position": 33
+    },
+    {
+      "id": 105,
+      "answer": "events",
+      "lineIndex": 80,
+      "position": 54
+    }
+  ],
+  "metadata": {
+    "originalFile": "/Users/cuongluong/Desktop/lyricsiq/src/data/lyrics/camisado.json",
+    "generatedAt": "2025-10-16T03:22:22.325Z",
+    "strategy": "important",
+    "totalBlanks": 106,
+    "imageUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.999x999x1.png",
+    "thumbnailUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.300x300x1.png",
+    "url": "https://genius.com/Panic-at-the-disco-camisado-lyrics",
+    "releaseDate": "September 27, 2005"
+  }
+}
