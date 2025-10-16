@@ -1,0 +1,397 @@
+{
+  "id": 194045,
+  "title": "I Write Sins Not Tragedies",
+  "artist": "Panic! at the Disco",
+  "difficulty": "hard",
+  "lyrics": "[Verse 1]\nOh, well, _____0_____ as I'm _____1_____ the pews in a _____2_____ _____3_____—\nAnd I can't help but to hear, no, I can't help but to hear an _____4_____ of words\n\"What a _____5_____ _____6_____, what a _____7_____ _____8_____\", says a _____9_____ to a _____10_____\n\"And, yes, but what a shame, what a shame the poor _____11_____ bride is a whore\"\n\n[Chorus]\nI _____12_____ in with a, \"_____13_____ you _____14_____ ever heard of _____15_____ a _____16_____ door?\"\nNo, it's much _____17_____ to face these kinds of _____18_____ with a sense of poise and _____19_____\nI _____20_____ in, \"_____21_____ you _____22_____ ever heard of _____23_____ a _____24_____ door?\"\nNo, it's much _____25_____ to face these kinds of _____26_____ with a sense of—\n\n[Verse 2]\nOh, well, in fact, well, I'll look at it this way\nI mean, _____27_____ our _____28_____ is saved\nWell, this calls for a toast, so pour the _____29_____\nOh, well, in fact, well, I'll look at it this way\nI mean, _____30_____ our _____31_____ is saved\nWell, this calls for a toast, so pour the _____32_____, pour the _____33_____\n\n[Chorus]\nI _____34_____ in with a, \"_____35_____ you _____36_____ ever heard of _____37_____ a _____38_____ door?\"\nNo, it's much _____39_____ to face these kinds of _____40_____ with a sense of poise and _____41_____\nI _____42_____ in, \"_____43_____ you _____44_____ ever heard of _____45_____ a _____46_____ door?\"\nNo, it's much _____47_____ to face these kinds of _____48_____ with a sense of—\n\n\n\n\n[Post-Chorus]\nPoise and _____49_____\nAgain\n\n[Chorus]\nI _____50_____ in, \"_____51_____ you _____52_____ ever heard of _____53_____ a _____54_____ door?\"\nNo, it's much _____55_____ to face these kinds of _____56_____ with a sense of poise and _____57_____\nI _____58_____ in, \"_____59_____ you people ever heard of _____60_____ a _____61_____ door?\"\nNo, it's much better to face these kinds of things with a sense of—\n\n[Post-Chorus]\nPoise and _____62_____\nAgain",
+  "blanks": [
+    {
+      "id": 0,
+      "answer": "imagine",
+      "lineIndex": 1,
+      "position": 10
+    },
+    {
+      "id": 1,
+      "answer": "pacing",
+      "lineIndex": 1,
+      "position": 25
+    },
+    {
+      "id": 2,
+      "answer": "church",
+      "lineIndex": 1,
+      "position": 46
+    },
+    {
+      "id": 3,
+      "answer": "corridor",
+      "lineIndex": 1,
+      "position": 53
+    },
+    {
+      "id": 4,
+      "answer": "exchanging",
+      "lineIndex": 2,
+      "position": 62
+    },
+    {
+      "id": 5,
+      "answer": "beautiful",
+      "lineIndex": 3,
+      "position": 8
+    },
+    {
+      "id": 6,
+      "answer": "wedding",
+      "lineIndex": 3,
+      "position": 18
+    },
+    {
+      "id": 7,
+      "answer": "beautiful",
+      "lineIndex": 3,
+      "position": 34
+    },
+    {
+      "id": 8,
+      "answer": "wedding",
+      "lineIndex": 3,
+      "position": 44
+    },
+    {
+      "id": 9,
+      "answer": "bridesmaid",
+      "lineIndex": 3,
+      "position": 61
+    },
+    {
+      "id": 10,
+      "answer": "waiter",
+      "lineIndex": 3,
+      "position": 77
+    },
+    {
+      "id": 11,
+      "answer": "groom's",
+      "lineIndex": 4,
+      "position": 51
+    },
+    {
+      "id": 12,
+      "answer": "chimed",
+      "lineIndex": 7,
+      "position": 2
+    },
+    {
+      "id": 13,
+      "answer": "Haven't",
+      "lineIndex": 7,
+      "position": 21
+    },
+    {
+      "id": 14,
+      "answer": "people",
+      "lineIndex": 7,
+      "position": 33
+    },
+    {
+      "id": 15,
+      "answer": "closing",
+      "lineIndex": 7,
+      "position": 54
+    },
+    {
+      "id": 16,
+      "answer": "goddamn",
+      "lineIndex": 7,
+      "position": 64
+    },
+    {
+      "id": 17,
+      "answer": "better",
+      "lineIndex": 8,
+      "position": 14
+    },
+    {
+      "id": 18,
+      "answer": "things",
+      "lineIndex": 8,
+      "position": 44
+    },
+    {
+      "id": 19,
+      "answer": "rationality",
+      "lineIndex": 8,
+      "position": 77
+    },
+    {
+      "id": 20,
+      "answer": "chimed",
+      "lineIndex": 9,
+      "position": 2
+    },
+    {
+      "id": 21,
+      "answer": "Haven't",
+      "lineIndex": 9,
+      "position": 14
+    },
+    {
+      "id": 22,
+      "answer": "people",
+      "lineIndex": 9,
+      "position": 26
+    },
+    {
+      "id": 23,
+      "answer": "closing",
+      "lineIndex": 9,
+      "position": 47
+    },
+    {
+      "id": 24,
+      "answer": "goddamn",
+      "lineIndex": 9,
+      "position": 57
+    },
+    {
+      "id": 25,
+      "answer": "better",
+      "lineIndex": 10,
+      "position": 14
+    },
+    {
+      "id": 26,
+      "answer": "things",
+      "lineIndex": 10,
+      "position": 44
+    },
+    {
+      "id": 27,
+      "answer": "technically",
+      "lineIndex": 14,
+      "position": 8
+    },
+    {
+      "id": 28,
+      "answer": "marriage",
+      "lineIndex": 14,
+      "position": 24
+    },
+    {
+      "id": 29,
+      "answer": "champagne",
+      "lineIndex": 15,
+      "position": 42
+    },
+    {
+      "id": 30,
+      "answer": "technically",
+      "lineIndex": 17,
+      "position": 8
+    },
+    {
+      "id": 31,
+      "answer": "marriage",
+      "lineIndex": 17,
+      "position": 24
+    },
+    {
+      "id": 32,
+      "answer": "champagne",
+      "lineIndex": 18,
+      "position": 42
+    },
+    {
+      "id": 33,
+      "answer": "champagne",
+      "lineIndex": 18,
+      "position": 62
+    },
+    {
+      "id": 34,
+      "answer": "chimed",
+      "lineIndex": 21,
+      "position": 2
+    },
+    {
+      "id": 35,
+      "answer": "Haven't",
+      "lineIndex": 21,
+      "position": 21
+    },
+    {
+      "id": 36,
+      "answer": "people",
+      "lineIndex": 21,
+      "position": 33
+    },
+    {
+      "id": 37,
+      "answer": "closing",
+      "lineIndex": 21,
+      "position": 54
+    },
+    {
+      "id": 38,
+      "answer": "goddamn",
+      "lineIndex": 21,
+      "position": 64
+    },
+    {
+      "id": 39,
+      "answer": "better",
+      "lineIndex": 22,
+      "position": 14
+    },
+    {
+      "id": 40,
+      "answer": "things",
+      "lineIndex": 22,
+      "position": 44
+    },
+    {
+      "id": 41,
+      "answer": "rationality",
+      "lineIndex": 22,
+      "position": 77
+    },
+    {
+      "id": 42,
+      "answer": "chimed",
+      "lineIndex": 23,
+      "position": 2
+    },
+    {
+      "id": 43,
+      "answer": "Haven't",
+      "lineIndex": 23,
+      "position": 14
+    },
+    {
+      "id": 44,
+      "answer": "people",
+      "lineIndex": 23,
+      "position": 26
+    },
+    {
+      "id": 45,
+      "answer": "closing",
+      "lineIndex": 23,
+      "position": 47
+    },
+    {
+      "id": 46,
+      "answer": "goddamn",
+      "lineIndex": 23,
+      "position": 57
+    },
+    {
+      "id": 47,
+      "answer": "better",
+      "lineIndex": 24,
+      "position": 14
+    },
+    {
+      "id": 48,
+      "answer": "things",
+      "lineIndex": 24,
+      "position": 44
+    },
+    {
+      "id": 49,
+      "answer": "rationality",
+      "lineIndex": 30,
+      "position": 10
+    },
+    {
+      "id": 50,
+      "answer": "chimed",
+      "lineIndex": 34,
+      "position": 2
+    },
+    {
+      "id": 51,
+      "answer": "Haven't",
+      "lineIndex": 34,
+      "position": 14
+    },
+    {
+      "id": 52,
+      "answer": "people",
+      "lineIndex": 34,
+      "position": 26
+    },
+    {
+      "id": 53,
+      "answer": "closing",
+      "lineIndex": 34,
+      "position": 47
+    },
+    {
+      "id": 54,
+      "answer": "goddamn",
+      "lineIndex": 34,
+      "position": 57
+    },
+    {
+      "id": 55,
+      "answer": "better",
+      "lineIndex": 35,
+      "position": 14
+    },
+    {
+      "id": 56,
+      "answer": "things",
+      "lineIndex": 35,
+      "position": 44
+    },
+    {
+      "id": 57,
+      "answer": "rationality",
+      "lineIndex": 35,
+      "position": 77
+    },
+    {
+      "id": 58,
+      "answer": "chimed",
+      "lineIndex": 36,
+      "position": 2
+    },
+    {
+      "id": 59,
+      "answer": "Haven't",
+      "lineIndex": 36,
+      "position": 14
+    },
+    {
+      "id": 60,
+      "answer": "closing",
+      "lineIndex": 36,
+      "position": 47
+    },
+    {
+      "id": 61,
+      "answer": "goddamn",
+      "lineIndex": 36,
+      "position": 57
+    },
+    {
+      "id": 62,
+      "answer": "rationality",
+      "lineIndex": 40,
+      "position": 10
+    }
+  ],
+  "metadata": {
+    "originalFile": "/Users/cuongluong/Desktop/lyricsiq/src/data/lyrics/i-write-sins.json",
+    "generatedAt": "2025-10-16T07:35:25.190Z",
+    "strategy": "important",
+    "totalBlanks": 63,
+    "imageUrl": "https://images.genius.com/6f3b4e3f3edb35c06dee85f5c098f1d4.1000x1000x1.jpg",
+    "thumbnailUrl": "https://images.genius.com/6f3b4e3f3edb35c06dee85f5c098f1d4.300x300x1.jpg",
+    "url": "https://genius.com/Panic-at-the-disco-i-write-sins-not-tragedies-lyrics",
+    "releaseDate": "February 27, 2006"
+  }
+}
