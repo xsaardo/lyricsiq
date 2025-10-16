@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-16T07:42:50.880Z",
+  "generated": "2025-10-16T08:05:26.095Z",
   "count": 10,
   "quizzes": [
     {
@@ -11,7 +11,7 @@
       "thumbnailUrl": "https://images.genius.com/aaac98f4fa8575f45a2e80b1e684b784.300x300x1.png",
       "imageUrl": "https://images.genius.com/aaac98f4fa8575f45a2e80b1e684b784.1000x1000x1.png",
       "releaseDate": "March 26, 2007",
-      "path": "/src/data/quizzes/build-god-quiz.json"
+      "path": "/data/quizzes/build-god-quiz.json"
     },
     {
       "id": 189637,
@@ -22,7 +22,7 @@
       "thumbnailUrl": "https://images.genius.com/4a3967a3a853c2d99ea78619bd1afdc6.300x300x1.png",
       "imageUrl": "https://images.genius.com/4a3967a3a853c2d99ea78619bd1afdc6.1000x1000x1.png",
       "releaseDate": "May 16, 2006",
-      "path": "/src/data/quizzes/but-its-better-if-you-do-quiz.json"
+      "path": "/data/quizzes/but-its-better-if-you-do-quiz.json"
     },
     {
       "id": 335410,
@@ -33,7 +33,7 @@
       "thumbnailUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.300x300x1.png",
       "imageUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.999x999x1.png",
       "releaseDate": "September 27, 2005",
-      "path": "/src/data/quizzes/camisado-quiz.json"
+      "path": "/data/quizzes/camisado-quiz.json"
     },
     {
       "id": 335469,
@@ -44,7 +44,7 @@
       "thumbnailUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.300x300x1.png",
       "imageUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.999x999x1.png",
       "releaseDate": "September 27, 2005",
-      "path": "/src/data/quizzes/i-constantly-thank-god-for-esteban-quiz.json"
+      "path": "/data/quizzes/i-constantly-thank-god-for-esteban-quiz.json"
     },
     {
       "id": 194045,
@@ -55,7 +55,7 @@
       "thumbnailUrl": "https://images.genius.com/6f3b4e3f3edb35c06dee85f5c098f1d4.300x300x1.jpg",
       "imageUrl": "https://images.genius.com/6f3b4e3f3edb35c06dee85f5c098f1d4.1000x1000x1.jpg",
       "releaseDate": "February 27, 2006",
-      "path": "/src/data/quizzes/i-write-sins-quiz.json"
+      "path": "/data/quizzes/i-write-sins-quiz.json"
     },
     {
       "id": 179353,
@@ -66,7 +66,7 @@
       "thumbnailUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.300x300x1.png",
       "imageUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.999x999x1.png",
       "releaseDate": "September 27, 2005",
-      "path": "/src/data/quizzes/london-beckoned-songs-quiz.json"
+      "path": "/data/quizzes/london-beckoned-songs-quiz.json"
     },
     {
       "id": 334887,
@@ -77,7 +77,7 @@
       "thumbnailUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.300x300x1.png",
       "imageUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.999x999x1.png",
       "releaseDate": "September 27, 2005",
-      "path": "/src/data/quizzes/nails-for-breakfast-quiz.json"
+      "path": "/data/quizzes/nails-for-breakfast-quiz.json"
     },
     {
       "id": 180508,
@@ -88,7 +88,7 @@
       "thumbnailUrl": "https://images.rapgenius.com/c5a24df00fb4c2a69701a985fa75f411.300x300x1.jpg",
       "imageUrl": "https://images.rapgenius.com/c5a24df00fb4c2a69701a985fa75f411.400x400x1.jpg",
       "releaseDate": "September 27, 2005",
-      "path": "/src/data/quizzes/the-only-difference-quiz.json"
+      "path": "/data/quizzes/the-only-difference-quiz.json"
     },
     {
       "id": 335486,
@@ -99,7 +99,7 @@
       "thumbnailUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.300x300x1.png",
       "imageUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.999x999x1.png",
       "releaseDate": "September 27, 2005",
-      "path": "/src/data/quizzes/there's-a-good-reason-quiz.json"
+      "path": "/data/quizzes/there's-a-good-reason-quiz.json"
     },
     {
       "id": 209581,
@@ -110,7 +110,7 @@
       "thumbnailUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.300x300x1.png",
       "imageUrl": "https://images.genius.com/c67f0f72409c339272a90c3c8dcdf683.999x999x1.png",
       "releaseDate": "September 27, 2005",
-      "path": "/src/data/quizzes/time-to-dance-quiz.json"
+      "path": "/data/quizzes/time-to-dance-quiz.json"
     }
   ]
 }
