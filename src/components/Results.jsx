@@ -2,8 +2,21 @@ import { useState } from 'react'
 import { generateShareUrl } from '../utils/urlState'
 import { compareAnswers } from '../utils/textNormalize'
 
-function Results({ quiz, score, userAnswers, onTryAgain, onNewQuiz, challengeScore }) {
+function Results({ quiz, score, userAnswers, onTryAgain, onNewQuiz, challengeScore, completionTime }) {
   const [copied, setCopied] = useState(false)
+
+  // Format time as MM:SS or HH:MM:SS
+  const formatTime = (seconds) => {
+    if (!seconds) return null
+    const hrs = Math.floor(seconds / 3600)
+    const mins = Math.floor((seconds % 3600) / 60)
+    const secs = seconds % 60
+
+    if (hrs > 0) {
+      return `${hrs}:${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`
+    }
+    return `${mins}:${secs.toString().padStart(2, '0')}`
+  }
 
   const getScoreMessage = () => {
     const percentage = score.percentage
@@ -135,6 +148,11 @@ function Results({ quiz, score, userAnswers, onTryAgain, onNewQuiz, challengeSco
             <div className="text-base text-gray-900">
               {score.correct} / {score.total} blanks correct
             </div>
+            {completionTime && (
+              <div className="text-sm text-gray-800 mt-2">
+                ⏱️ Completed in {formatTime(completionTime)}
+              </div>
+            )}
           </div>
 
           {/* Challenge result */}

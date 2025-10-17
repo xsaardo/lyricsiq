@@ -12,6 +12,8 @@ function App() {
   const [userAnswers, setUserAnswers] = useState({})
   const [score, setScore] = useState(null)
   const [challengeData, setChallengeData] = useState(null)
+  const [startTime, setStartTime] = useState(null)
+  const [completionTime, setCompletionTime] = useState(null)
 
   // Check URL for shared quiz on mount
   useEffect(() => {
@@ -69,6 +71,8 @@ function App() {
     setSelectedQuiz(quiz)
     setUserAnswers({})
     setScore(null)
+    setStartTime(Date.now()) // Start timer
+    setCompletionTime(null)
     setView('quiz')
 
     // Scroll to top of page
@@ -77,6 +81,11 @@ function App() {
 
   const handleQuizSubmit = (answers) => {
     setUserAnswers(answers)
+
+    // Calculate completion time
+    const endTime = Date.now()
+    const timeInSeconds = Math.round((endTime - startTime) / 1000)
+    setCompletionTime(timeInSeconds)
 
     // Calculate score - exact matches with normalized text
     const correctAnswers = selectedQuiz.blanks.filter((blank) => {
@@ -89,7 +98,8 @@ function App() {
       correct: correctAnswers.length,
       total: selectedQuiz.blanks.length,
       percentage: Math.round((correctAnswers.length / selectedQuiz.blanks.length) * 100),
-      answers: answers
+      answers: answers,
+      completionTime: timeInSeconds
     }
 
     // Save score to localStorage
@@ -105,6 +115,8 @@ function App() {
   const handleTryAgain = () => {
     setUserAnswers({})
     setScore(null)
+    setStartTime(Date.now()) // Restart timer
+    setCompletionTime(null)
     setView('quiz')
 
     // Scroll to top of page
@@ -150,6 +162,7 @@ function App() {
             onSubmit={handleQuizSubmit}
             onBack={handleNewQuiz}
             challengeScore={challengeData?.score}
+            startTime={startTime}
           />
         )}
 
@@ -161,6 +174,7 @@ function App() {
             onTryAgain={handleTryAgain}
             onNewQuiz={handleNewQuiz}
             challengeScore={challengeData?.score}
+            completionTime={completionTime}
           />
         )}
       </main>

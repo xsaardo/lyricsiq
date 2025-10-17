@@ -1,8 +1,28 @@
 import { useState, useRef, useEffect } from 'react'
 
-function QuizView({ quiz, initialAnswers, onSubmit, onBack, challengeScore }) {
+function QuizView({ quiz, initialAnswers, onSubmit, onBack, challengeScore, startTime }) {
   const [answers, setAnswers] = useState(initialAnswers || {})
+  const [elapsedTime, setElapsedTime] = useState(0)
   const inputRefs = useRef({})
+
+  // Update elapsed time every second
+  useEffect(() => {
+    if (!startTime) return
+
+    const interval = setInterval(() => {
+      const elapsed = Math.floor((Date.now() - startTime) / 1000)
+      setElapsedTime(elapsed)
+    }, 1000)
+
+    return () => clearInterval(interval)
+  }, [startTime])
+
+  // Format time as MM:SS
+  const formatTime = (seconds) => {
+    const mins = Math.floor(seconds / 60)
+    const secs = seconds % 60
+    return `${mins}:${secs.toString().padStart(2, '0')}`
+  }
 
   // Parse lyrics and replace blanks with input fields
   const renderLyrics = () => {
@@ -152,9 +172,14 @@ function QuizView({ quiz, initialAnswers, onSubmit, onBack, challengeScore }) {
             style={{ width: `${progress}%` }}
           ></div>
         </div>
-        <p className="text-sm text-white font-medium mt-2">
-          {filledCount} / {quiz.blanks.length} blanks filled ({progress}%)
-        </p>
+        <div className="flex justify-between items-center mt-2">
+          <p className="text-sm text-white font-medium">
+            {filledCount} / {quiz.blanks.length} blanks filled ({progress}%)
+          </p>
+          <p className="text-sm text-white font-medium">
+            ⏱️ {formatTime(elapsedTime)}
+          </p>
+        </div>
       </div>
 
       {/* Lyrics */}
