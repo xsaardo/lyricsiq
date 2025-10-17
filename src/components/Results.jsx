@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { generateShareUrl } from '../utils/urlState'
+import { compareAnswers } from '../utils/textNormalize'
 
 function Results({ quiz, score, userAnswers, onTryAgain, onNewQuiz, challengeScore }) {
   const [copied, setCopied] = useState(false)
@@ -52,7 +53,7 @@ function Results({ quiz, score, userAnswers, onTryAgain, onNewQuiz, challengeSco
         const blankId = parseInt(match[1])
         const blank = quiz.blanks.find((b) => b.id === blankId)
         const userAnswer = userAnswers[blankId]?.trim() || '(blank)'
-        const isCorrect = userAnswer.toLowerCase() === blank.answer.toLowerCase()
+        const isCorrect = compareAnswers(userAnswer, blank.answer)
 
         // Add text before blank
         if (match.index > lastIndex) {
