@@ -4,6 +4,7 @@ import QuizView from './components/QuizView'
 import Results from './components/Results'
 import { decodeQuizState, encodeQuizState } from './utils/urlState'
 import { saveScore } from './utils/scoreStorage'
+import { compareAnswers } from './utils/textNormalize'
 
 function App() {
   const [view, setView] = useState('selector') // 'selector', 'quiz', 'results'
@@ -77,11 +78,11 @@ function App() {
   const handleQuizSubmit = (answers) => {
     setUserAnswers(answers)
 
-    // Calculate score - exact matches
+    // Calculate score - exact matches with normalized text
     const correctAnswers = selectedQuiz.blanks.filter((blank) => {
-      const userAnswer = answers[blank.id]?.trim().toLowerCase()
-      const correctAnswer = blank.answer.trim().toLowerCase()
-      return userAnswer === correctAnswer
+      const userAnswer = answers[blank.id] || ''
+      const correctAnswer = blank.answer || ''
+      return compareAnswers(userAnswer, correctAnswer)
     })
 
     const scoreData = {
